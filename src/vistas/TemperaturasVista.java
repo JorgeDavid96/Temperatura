@@ -52,7 +52,7 @@ public class TemperaturasVista extends JFrame {
         lblRuta.setBounds(20, 45, 100, 25);
         add(lblRuta);
 
-        txtRuta = new JTextField("data/temperaturas_2025.csv");
+        txtRuta = new JTextField("src/datos/temperaturas.csv");
         txtRuta.setBounds(115, 45, 260, 25);
         add(txtRuta);
 
