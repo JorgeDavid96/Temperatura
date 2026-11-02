@@ -1,0 +1,3651 @@
+Ciudad,Fecha,Temperatura
+Bogotá,01/01/2025,25.2
+Medellín,01/01/2025,29.5
+Sincelejo,01/01/2025,33.7
+Barranquilla,01/01/2025,20.2
+Cartagena,01/01/2025,19.9
+Bucaramanga,01/01/2025,26.1
+Pereira,01/01/2025,32.2
+Cúcuta,01/01/2025,20.1
+Santa Marta,01/01/2025,24.7
+Montería,01/01/2025,27.8
+Bogotá,02/01/2025,15.8
+Medellín,02/01/2025,16.6
+Sincelejo,02/01/2025,26.1
+Barranquilla,02/01/2025,16.9
+Cartagena,02/01/2025,23.5
+Bucaramanga,02/01/2025,22.2
+Pereira,02/01/2025,16.6
+Cúcuta,02/01/2025,18.2
+Santa Marta,02/01/2025,20.5
+Montería,02/01/2025,26.6
+Bogotá,03/01/2025,19.5
+Medellín,03/01/2025,27.6
+Sincelejo,03/01/2025,18.4
+Barranquilla,03/01/2025,23.1
+Cartagena,03/01/2025,15.2
+Bucaramanga,03/01/2025,15.8
+Pereira,03/01/2025,15.6
+Cúcuta,03/01/2025,25.6
+Santa Marta,03/01/2025,21.3
+Montería,03/01/2025,31.4
+Bogotá,04/01/2025,25.7
+Medellín,04/01/2025,24.1
+Sincelejo,04/01/2025,21.9
+Barranquilla,04/01/2025,24.3
+Cartagena,04/01/2025,20.1
+Bucaramanga,04/01/2025,30.8
+Pereira,04/01/2025,24.2
+Cúcuta,04/01/2025,35.1
+Santa Marta,04/01/2025,18.6
+Montería,04/01/2025,22.6
+Bogotá,05/01/2025,32.9
+Medellín,05/01/2025,27.3
+Sincelejo,05/01/2025,23.4
+Barranquilla,05/01/2025,16.9
+Cartagena,05/01/2025,32.7
+Bucaramanga,05/01/2025,24.5
+Pereira,05/01/2025,31.6
+Cúcuta,05/01/2025,29.4
+Santa Marta,05/01/2025,15.0
+Montería,05/01/2025,21.9
+Bogotá,06/01/2025,34.2
+Medellín,06/01/2025,29.6
+Sincelejo,06/01/2025,20.8
+Barranquilla,06/01/2025,32.0
+Cartagena,06/01/2025,15.5
+Bucaramanga,06/01/2025,33.2
+Pereira,06/01/2025,21.5
+Cúcuta,06/01/2025,33.3
+Santa Marta,06/01/2025,19.9
+Montería,06/01/2025,17.6
+Bogotá,07/01/2025,18.0
+Medellín,07/01/2025,26.5
+Sincelejo,07/01/2025,34.4
+Barranquilla,07/01/2025,30.3
+Cartagena,07/01/2025,28.8
+Bucaramanga,07/01/2025,28.8
+Pereira,07/01/2025,25.2
+Cúcuta,07/01/2025,25.9
+Santa Marta,07/01/2025,30.8
+Montería,07/01/2025,16.6
+Bogotá,08/01/2025,23.3
+Medellín,08/01/2025,25.2
+Sincelejo,08/01/2025,17.8
+Barranquilla,08/01/2025,26.1
+Cartagena,08/01/2025,21.4
+Bucaramanga,08/01/2025,33.0
+Pereira,08/01/2025,35.1
+Cúcuta,08/01/2025,28.5
+Santa Marta,08/01/2025,26.4
+Montería,08/01/2025,26.2
+Bogotá,09/01/2025,27.3
+Medellín,09/01/2025,34.7
+Sincelejo,09/01/2025,17.7
+Barranquilla,09/01/2025,18.1
+Cartagena,09/01/2025,20.9
+Bucaramanga,09/01/2025,21.1
+Pereira,09/01/2025,18.0
+Cúcuta,09/01/2025,23.1
+Santa Marta,09/01/2025,31.4
+Montería,09/01/2025,31.7
+Bogotá,10/01/2025,23.3
+Medellín,10/01/2025,25.7
+Sincelejo,10/01/2025,24.9
+Barranquilla,10/01/2025,32.8
+Cartagena,10/01/2025,26.8
+Bucaramanga,10/01/2025,27.2
+Pereira,10/01/2025,18.2
+Cúcuta,10/01/2025,26.2
+Santa Marta,10/01/2025,27.0
+Montería,10/01/2025,17.7
+Bogotá,11/01/2025,17.1
+Medellín,11/01/2025,18.8
+Sincelejo,11/01/2025,20.2
+Barranquilla,11/01/2025,16.9
+Cartagena,11/01/2025,23.4
+Bucaramanga,11/01/2025,30.1
+Pereira,11/01/2025,22.0
+Cúcuta,11/01/2025,24.2
+Santa Marta,11/01/2025,15.3
+Montería,11/01/2025,16.4
+Bogotá,12/01/2025,16.7
+Medellín,12/01/2025,25.1
+Sincelejo,12/01/2025,31.8
+Barranquilla,12/01/2025,29.7
+Cartagena,12/01/2025,16.2
+Bucaramanga,12/01/2025,29.3
+Pereira,12/01/2025,32.2
+Cúcuta,12/01/2025,15.7
+Santa Marta,12/01/2025,31.5
+Montería,12/01/2025,21.3
+Bogotá,13/01/2025,30.0
+Medellín,13/01/2025,31.6
+Sincelejo,13/01/2025,31.0
+Barranquilla,13/01/2025,18.6
+Cartagena,13/01/2025,34.3
+Bucaramanga,13/01/2025,20.4
+Pereira,13/01/2025,31.9
+Cúcuta,13/01/2025,28.4
+Santa Marta,13/01/2025,33.4
+Montería,13/01/2025,33.5
+Bogotá,14/01/2025,33.7
+Medellín,14/01/2025,15.9
+Sincelejo,14/01/2025,29.3
+Barranquilla,14/01/2025,24.2
+Cartagena,14/01/2025,33.2
+Bucaramanga,14/01/2025,26.6
+Pereira,14/01/2025,34.6
+Cúcuta,14/01/2025,15.1
+Santa Marta,14/01/2025,30.4
+Montería,14/01/2025,25.9
+Bogotá,15/01/2025,19.1
+Medellín,15/01/2025,35.0
+Sincelejo,15/01/2025,27.6
+Barranquilla,15/01/2025,33.5
+Cartagena,15/01/2025,33.4
+Bucaramanga,15/01/2025,19.8
+Pereira,15/01/2025,19.4
+Cúcuta,15/01/2025,24.1
+Santa Marta,15/01/2025,34.6
+Montería,15/01/2025,28.0
+Bogotá,16/01/2025,28.0
+Medellín,16/01/2025,28.9
+Sincelejo,16/01/2025,33.5
+Barranquilla,16/01/2025,15.8
+Cartagena,16/01/2025,30.2
+Bucaramanga,16/01/2025,32.6
+Pereira,16/01/2025,34.3
+Cúcuta,16/01/2025,21.1
+Santa Marta,16/01/2025,19.4
+Montería,16/01/2025,30.6
+Bogotá,17/01/2025,15.8
+Medellín,17/01/2025,25.2
+Sincelejo,17/01/2025,19.8
+Barranquilla,17/01/2025,26.4
+Cartagena,17/01/2025,32.9
+Bucaramanga,17/01/2025,22.2
+Pereira,17/01/2025,21.0
+Cúcuta,17/01/2025,31.9
+Santa Marta,17/01/2025,19.5
+Montería,17/01/2025,23.3
+Bogotá,18/01/2025,22.2
+Medellín,18/01/2025,22.5
+Sincelejo,18/01/2025,17.7
+Barranquilla,18/01/2025,35.2
+Cartagena,18/01/2025,29.0
+Bucaramanga,18/01/2025,28.9
+Pereira,18/01/2025,20.1
+Cúcuta,18/01/2025,15.9
+Santa Marta,18/01/2025,17.0
+Montería,18/01/2025,29.8
+Bogotá,19/01/2025,28.4
+Medellín,19/01/2025,18.6
+Sincelejo,19/01/2025,29.3
+Barranquilla,19/01/2025,23.0
+Cartagena,19/01/2025,34.7
+Bucaramanga,19/01/2025,18.4
+Pereira,19/01/2025,16.1
+Cúcuta,19/01/2025,28.2
+Santa Marta,19/01/2025,24.5
+Montería,19/01/2025,25.6
+Bogotá,20/01/2025,14.6
+Medellín,20/01/2025,30.1
+Sincelejo,20/01/2025,29.7
+Barranquilla,20/01/2025,18.4
+Cartagena,20/01/2025,22.4
+Bucaramanga,20/01/2025,21.1
+Pereira,20/01/2025,21.1
+Cúcuta,20/01/2025,22.5
+Santa Marta,20/01/2025,34.1
+Montería,20/01/2025,34.4
+Bogotá,21/01/2025,31.3
+Medellín,21/01/2025,28.3
+Sincelejo,21/01/2025,33.0
+Barranquilla,21/01/2025,31.7
+Cartagena,21/01/2025,29.0
+Bucaramanga,21/01/2025,33.4
+Pereira,21/01/2025,29.1
+Cúcuta,21/01/2025,23.9
+Santa Marta,21/01/2025,20.3
+Montería,21/01/2025,15.9
+Bogotá,22/01/2025,19.4
+Medellín,22/01/2025,30.1
+Sincelejo,22/01/2025,17.1
+Barranquilla,22/01/2025,32.4
+Cartagena,22/01/2025,20.5
+Bucaramanga,22/01/2025,30.2
+Pereira,22/01/2025,30.4
+Cúcuta,22/01/2025,34.8
+Santa Marta,22/01/2025,28.8
+Montería,22/01/2025,33.9
+Bogotá,23/01/2025,16.1
+Medellín,23/01/2025,23.0
+Sincelejo,23/01/2025,27.2
+Barranquilla,23/01/2025,26.5
+Cartagena,23/01/2025,20.9
+Bucaramanga,23/01/2025,16.8
+Pereira,23/01/2025,26.1
+Cúcuta,23/01/2025,29.4
+Santa Marta,23/01/2025,20.1
+Montería,23/01/2025,21.0
+Bogotá,24/01/2025,20.4
+Medellín,24/01/2025,24.4
+Sincelejo,24/01/2025,26.0
+Barranquilla,24/01/2025,26.8
+Cartagena,24/01/2025,34.4
+Bucaramanga,24/01/2025,33.5
+Pereira,24/01/2025,18.7
+Cúcuta,24/01/2025,24.6
+Santa Marta,24/01/2025,25.0
+Montería,24/01/2025,15.1
+Bogotá,25/01/2025,25.9
+Medellín,25/01/2025,28.1
+Sincelejo,25/01/2025,21.2
+Barranquilla,25/01/2025,23.6
+Cartagena,25/01/2025,20.9
+Bucaramanga,25/01/2025,25.3
+Pereira,25/01/2025,15.6
+Cúcuta,25/01/2025,20.0
+Santa Marta,25/01/2025,26.8
+Montería,25/01/2025,34.0
+Bogotá,26/01/2025,16.5
+Medellín,26/01/2025,28.9
+Sincelejo,26/01/2025,18.3
+Barranquilla,26/01/2025,23.2
+Cartagena,26/01/2025,15.3
+Bucaramanga,26/01/2025,25.2
+Pereira,26/01/2025,16.9
+Cúcuta,26/01/2025,16.2
+Santa Marta,26/01/2025,18.7
+Montería,26/01/2025,32.9
+Bogotá,27/01/2025,28.9
+Medellín,27/01/2025,23.5
+Sincelejo,27/01/2025,24.4
+Barranquilla,27/01/2025,15.9
+Cartagena,27/01/2025,24.0
+Bucaramanga,27/01/2025,26.7
+Pereira,27/01/2025,18.3
+Cúcuta,27/01/2025,22.1
+Santa Marta,27/01/2025,32.0
+Montería,27/01/2025,35.2
+Bogotá,28/01/2025,15.0
+Medellín,28/01/2025,29.5
+Sincelejo,28/01/2025,17.2
+Barranquilla,28/01/2025,15.7
+Cartagena,28/01/2025,32.4
+Bucaramanga,28/01/2025,31.3
+Pereira,28/01/2025,21.8
+Cúcuta,28/01/2025,32.5
+Santa Marta,28/01/2025,28.8
+Montería,28/01/2025,27.6
+Bogotá,29/01/2025,18.1
+Medellín,29/01/2025,34.1
+Sincelejo,29/01/2025,17.0
+Barranquilla,29/01/2025,20.9
+Cartagena,29/01/2025,23.9
+Bucaramanga,29/01/2025,24.3
+Pereira,29/01/2025,32.4
+Cúcuta,29/01/2025,33.4
+Santa Marta,29/01/2025,21.5
+Montería,29/01/2025,16.7
+Bogotá,30/01/2025,17.2
+Medellín,30/01/2025,33.7
+Sincelejo,30/01/2025,18.0
+Barranquilla,30/01/2025,29.6
+Cartagena,30/01/2025,21.5
+Bucaramanga,30/01/2025,20.2
+Pereira,30/01/2025,16.1
+Cúcuta,30/01/2025,27.6
+Santa Marta,30/01/2025,30.5
+Montería,30/01/2025,25.9
+Bogotá,31/01/2025,24.2
+Medellín,31/01/2025,29.4
+Sincelejo,31/01/2025,17.9
+Barranquilla,31/01/2025,29.3
+Cartagena,31/01/2025,30.2
+Bucaramanga,31/01/2025,18.6
+Pereira,31/01/2025,19.3
+Cúcuta,31/01/2025,25.4
+Santa Marta,31/01/2025,33.5
+Montería,31/01/2025,20.7
+Bogotá,01/02/2025,24.8
+Medellín,01/02/2025,27.8
+Sincelejo,01/02/2025,18.8
+Barranquilla,01/02/2025,33.5
+Cartagena,01/02/2025,29.0
+Bucaramanga,01/02/2025,33.9
+Pereira,01/02/2025,28.9
+Cúcuta,01/02/2025,35.3
+Santa Marta,01/02/2025,23.3
+Montería,01/02/2025,14.8
+Bogotá,02/02/2025,27.5
+Medellín,02/02/2025,33.2
+Sincelejo,02/02/2025,21.7
+Barranquilla,02/02/2025,28.6
+Cartagena,02/02/2025,22.2
+Bucaramanga,02/02/2025,31.7
+Pereira,02/02/2025,25.8
+Cúcuta,02/02/2025,27.9
+Santa Marta,02/02/2025,19.7
+Montería,02/02/2025,17.3
+Bogotá,03/02/2025,24.6
+Medellín,03/02/2025,22.2
+Sincelejo,03/02/2025,22.3
+Barranquilla,03/02/2025,26.5
+Cartagena,03/02/2025,18.0
+Bucaramanga,03/02/2025,18.7
+Pereira,03/02/2025,18.1
+Cúcuta,03/02/2025,32.9
+Santa Marta,03/02/2025,27.8
+Montería,03/02/2025,23.0
+Bogotá,04/02/2025,24.5
+Medellín,04/02/2025,22.6
+Sincelejo,04/02/2025,18.4
+Barranquilla,04/02/2025,22.0
+Cartagena,04/02/2025,19.9
+Bucaramanga,04/02/2025,18.6
+Pereira,04/02/2025,31.1
+Cúcuta,04/02/2025,26.0
+Santa Marta,04/02/2025,31.5
+Montería,04/02/2025,24.3
+Bogotá,05/02/2025,22.8
+Medellín,05/02/2025,16.7
+Sincelejo,05/02/2025,15.2
+Barranquilla,05/02/2025,22.9
+Cartagena,05/02/2025,26.0
+Bucaramanga,05/02/2025,28.4
+Pereira,05/02/2025,17.4
+Cúcuta,05/02/2025,15.9
+Santa Marta,05/02/2025,31.2
+Montería,05/02/2025,30.3
+Bogotá,06/02/2025,20.2
+Medellín,06/02/2025,29.3
+Sincelejo,06/02/2025,32.5
+Barranquilla,06/02/2025,30.5
+Cartagena,06/02/2025,30.3
+Bucaramanga,06/02/2025,24.0
+Pereira,06/02/2025,31.0
+Cúcuta,06/02/2025,27.3
+Santa Marta,06/02/2025,26.7
+Montería,06/02/2025,30.9
+Bogotá,07/02/2025,25.5
+Medellín,07/02/2025,30.5
+Sincelejo,07/02/2025,35.1
+Barranquilla,07/02/2025,30.8
+Cartagena,07/02/2025,22.7
+Bucaramanga,07/02/2025,26.5
+Pereira,07/02/2025,18.9
+Cúcuta,07/02/2025,19.4
+Santa Marta,07/02/2025,21.4
+Montería,07/02/2025,16.3
+Bogotá,08/02/2025,23.0
+Medellín,08/02/2025,34.3
+Sincelejo,08/02/2025,32.0
+Barranquilla,08/02/2025,34.6
+Cartagena,08/02/2025,15.3
+Bucaramanga,08/02/2025,28.5
+Pereira,08/02/2025,17.4
+Cúcuta,08/02/2025,22.8
+Santa Marta,08/02/2025,20.6
+Montería,08/02/2025,26.7
+Bogotá,09/02/2025,31.1
+Medellín,09/02/2025,17.8
+Sincelejo,09/02/2025,29.0
+Barranquilla,09/02/2025,22.6
+Cartagena,09/02/2025,29.2
+Bucaramanga,09/02/2025,20.8
+Pereira,09/02/2025,18.4
+Cúcuta,09/02/2025,17.5
+Santa Marta,09/02/2025,34.4
+Montería,09/02/2025,30.4
+Bogotá,10/02/2025,24.9
+Medellín,10/02/2025,16.7
+Sincelejo,10/02/2025,22.6
+Barranquilla,10/02/2025,25.1
+Cartagena,10/02/2025,31.5
+Bucaramanga,10/02/2025,31.4
+Pereira,10/02/2025,34.0
+Cúcuta,10/02/2025,32.9
+Santa Marta,10/02/2025,24.7
+Montería,10/02/2025,24.5
+Bogotá,11/02/2025,18.2
+Medellín,11/02/2025,18.4
+Sincelejo,11/02/2025,29.6
+Barranquilla,11/02/2025,17.4
+Cartagena,11/02/2025,25.0
+Bucaramanga,11/02/2025,17.8
+Pereira,11/02/2025,31.5
+Cúcuta,11/02/2025,19.7
+Santa Marta,11/02/2025,30.8
+Montería,11/02/2025,22.1
+Bogotá,12/02/2025,33.4
+Medellín,12/02/2025,17.5
+Sincelejo,12/02/2025,16.4
+Barranquilla,12/02/2025,16.1
+Cartagena,12/02/2025,25.4
+Bucaramanga,12/02/2025,32.3
+Pereira,12/02/2025,19.1
+Cúcuta,12/02/2025,16.2
+Santa Marta,12/02/2025,24.8
+Montería,12/02/2025,25.0
+Bogotá,13/02/2025,18.6
+Medellín,13/02/2025,32.1
+Sincelejo,13/02/2025,28.6
+Barranquilla,13/02/2025,19.7
+Cartagena,13/02/2025,19.5
+Bucaramanga,13/02/2025,22.8
+Pereira,13/02/2025,21.4
+Cúcuta,13/02/2025,26.3
+Santa Marta,13/02/2025,28.6
+Montería,13/02/2025,21.0
+Bogotá,14/02/2025,28.4
+Medellín,14/02/2025,16.4
+Sincelejo,14/02/2025,30.4
+Barranquilla,14/02/2025,23.2
+Cartagena,14/02/2025,17.0
+Bucaramanga,14/02/2025,28.6
+Pereira,14/02/2025,28.7
+Cúcuta,14/02/2025,32.2
+Santa Marta,14/02/2025,17.1
+Montería,14/02/2025,26.5
+Bogotá,15/02/2025,26.1
+Medellín,15/02/2025,15.5
+Sincelejo,15/02/2025,30.0
+Barranquilla,15/02/2025,34.6
+Cartagena,15/02/2025,20.3
+Bucaramanga,15/02/2025,20.5
+Pereira,15/02/2025,32.3
+Cúcuta,15/02/2025,32.8
+Santa Marta,15/02/2025,28.4
+Montería,15/02/2025,33.2
+Bogotá,16/02/2025,18.3
+Medellín,16/02/2025,29.9
+Sincelejo,16/02/2025,18.4
+Barranquilla,16/02/2025,14.9
+Cartagena,16/02/2025,34.5
+Bucaramanga,16/02/2025,28.5
+Pereira,16/02/2025,31.5
+Cúcuta,16/02/2025,16.3
+Santa Marta,16/02/2025,26.2
+Montería,16/02/2025,30.6
+Bogotá,17/02/2025,14.6
+Medellín,17/02/2025,20.8
+Sincelejo,17/02/2025,21.4
+Barranquilla,17/02/2025,24.2
+Cartagena,17/02/2025,27.1
+Bucaramanga,17/02/2025,25.2
+Pereira,17/02/2025,24.0
+Cúcuta,17/02/2025,18.3
+Santa Marta,17/02/2025,24.5
+Montería,17/02/2025,29.2
+Bogotá,18/02/2025,28.5
+Medellín,18/02/2025,18.3
+Sincelejo,18/02/2025,23.7
+Barranquilla,18/02/2025,35.0
+Cartagena,18/02/2025,29.3
+Bucaramanga,18/02/2025,17.2
+Pereira,18/02/2025,20.5
+Cúcuta,18/02/2025,15.9
+Santa Marta,18/02/2025,30.2
+Montería,18/02/2025,21.3
+Bogotá,19/02/2025,33.4
+Medellín,19/02/2025,24.4
+Sincelejo,19/02/2025,31.6
+Barranquilla,19/02/2025,23.6
+Cartagena,19/02/2025,27.4
+Bucaramanga,19/02/2025,17.1
+Pereira,19/02/2025,28.9
+Cúcuta,19/02/2025,21.0
+Santa Marta,19/02/2025,16.5
+Montería,19/02/2025,25.9
+Bogotá,20/02/2025,33.7
+Medellín,20/02/2025,19.2
+Sincelejo,20/02/2025,22.3
+Barranquilla,20/02/2025,17.0
+Cartagena,20/02/2025,28.9
+Bucaramanga,20/02/2025,29.4
+Pereira,20/02/2025,25.4
+Cúcuta,20/02/2025,31.0
+Santa Marta,20/02/2025,18.7
+Montería,20/02/2025,32.6
+Bogotá,21/02/2025,16.6
+Medellín,21/02/2025,31.8
+Sincelejo,21/02/2025,15.1
+Barranquilla,21/02/2025,18.1
+Cartagena,21/02/2025,30.5
+Bucaramanga,21/02/2025,32.5
+Pereira,21/02/2025,32.4
+Cúcuta,21/02/2025,27.0
+Santa Marta,21/02/2025,34.3
+Montería,21/02/2025,29.2
+Bogotá,22/02/2025,15.8
+Medellín,22/02/2025,29.4
+Sincelejo,22/02/2025,16.6
+Barranquilla,22/02/2025,19.6
+Cartagena,22/02/2025,16.7
+Bucaramanga,22/02/2025,20.2
+Pereira,22/02/2025,27.8
+Cúcuta,22/02/2025,28.7
+Santa Marta,22/02/2025,22.7
+Montería,22/02/2025,33.7
+Bogotá,23/02/2025,16.6
+Medellín,23/02/2025,34.0
+Sincelejo,23/02/2025,24.5
+Barranquilla,23/02/2025,27.6
+Cartagena,23/02/2025,32.0
+Bucaramanga,23/02/2025,20.7
+Pereira,23/02/2025,24.3
+Cúcuta,23/02/2025,23.9
+Santa Marta,23/02/2025,34.8
+Montería,23/02/2025,27.2
+Bogotá,24/02/2025,23.3
+Medellín,24/02/2025,34.1
+Sincelejo,24/02/2025,20.5
+Barranquilla,24/02/2025,18.4
+Cartagena,24/02/2025,27.1
+Bucaramanga,24/02/2025,23.0
+Pereira,24/02/2025,26.2
+Cúcuta,24/02/2025,21.3
+Santa Marta,24/02/2025,22.4
+Montería,24/02/2025,32.0
+Bogotá,25/02/2025,27.3
+Medellín,25/02/2025,20.7
+Sincelejo,25/02/2025,23.4
+Barranquilla,25/02/2025,34.2
+Cartagena,25/02/2025,16.5
+Bucaramanga,25/02/2025,20.4
+Pereira,25/02/2025,31.3
+Cúcuta,25/02/2025,16.2
+Santa Marta,25/02/2025,16.1
+Montería,25/02/2025,31.8
+Bogotá,26/02/2025,15.4
+Medellín,26/02/2025,30.5
+Sincelejo,26/02/2025,30.7
+Barranquilla,26/02/2025,22.9
+Cartagena,26/02/2025,30.6
+Bucaramanga,26/02/2025,32.9
+Pereira,26/02/2025,34.0
+Cúcuta,26/02/2025,19.9
+Santa Marta,26/02/2025,18.9
+Montería,26/02/2025,30.1
+Bogotá,27/02/2025,18.8
+Medellín,27/02/2025,20.7
+Sincelejo,27/02/2025,19.6
+Barranquilla,27/02/2025,22.8
+Cartagena,27/02/2025,24.0
+Bucaramanga,27/02/2025,29.4
+Pereira,27/02/2025,19.8
+Cúcuta,27/02/2025,23.7
+Santa Marta,27/02/2025,21.7
+Montería,27/02/2025,32.8
+Bogotá,28/02/2025,34.7
+Medellín,28/02/2025,30.8
+Sincelejo,28/02/2025,18.9
+Barranquilla,28/02/2025,24.2
+Cartagena,28/02/2025,28.9
+Bucaramanga,28/02/2025,26.4
+Pereira,28/02/2025,32.7
+Cúcuta,28/02/2025,32.6
+Santa Marta,28/02/2025,18.7
+Montería,28/02/2025,29.7
+Bogotá,01/03/2025,31.2
+Medellín,01/03/2025,34.0
+Sincelejo,01/03/2025,24.0
+Barranquilla,01/03/2025,28.6
+Cartagena,01/03/2025,33.7
+Bucaramanga,01/03/2025,24.5
+Pereira,01/03/2025,26.7
+Cúcuta,01/03/2025,21.2
+Santa Marta,01/03/2025,33.1
+Montería,01/03/2025,20.0
+Bogotá,02/03/2025,22.4
+Medellín,02/03/2025,15.7
+Sincelejo,02/03/2025,26.1
+Barranquilla,02/03/2025,28.9
+Cartagena,02/03/2025,20.6
+Bucaramanga,02/03/2025,34.5
+Pereira,02/03/2025,28.3
+Cúcuta,02/03/2025,28.5
+Santa Marta,02/03/2025,25.0
+Montería,02/03/2025,22.6
+Bogotá,03/03/2025,15.8
+Medellín,03/03/2025,32.0
+Sincelejo,03/03/2025,20.5
+Barranquilla,03/03/2025,18.9
+Cartagena,03/03/2025,30.1
+Bucaramanga,03/03/2025,20.0
+Pereira,03/03/2025,19.8
+Cúcuta,03/03/2025,33.3
+Santa Marta,03/03/2025,25.5
+Montería,03/03/2025,35.0
+Bogotá,04/03/2025,21.8
+Medellín,04/03/2025,29.7
+Sincelejo,04/03/2025,21.5
+Barranquilla,04/03/2025,24.1
+Cartagena,04/03/2025,22.8
+Bucaramanga,04/03/2025,21.6
+Pereira,04/03/2025,15.9
+Cúcuta,04/03/2025,28.5
+Santa Marta,04/03/2025,34.7
+Montería,04/03/2025,27.3
+Bogotá,05/03/2025,22.5
+Medellín,05/03/2025,24.8
+Sincelejo,05/03/2025,25.7
+Barranquilla,05/03/2025,20.5
+Cartagena,05/03/2025,30.1
+Bucaramanga,05/03/2025,19.1
+Pereira,05/03/2025,26.1
+Cúcuta,05/03/2025,17.2
+Santa Marta,05/03/2025,15.5
+Montería,05/03/2025,15.4
+Bogotá,06/03/2025,19.2
+Medellín,06/03/2025,34.0
+Sincelejo,06/03/2025,19.6
+Barranquilla,06/03/2025,29.5
+Cartagena,06/03/2025,15.5
+Bucaramanga,06/03/2025,33.4
+Pereira,06/03/2025,25.0
+Cúcuta,06/03/2025,24.8
+Santa Marta,06/03/2025,16.6
+Montería,06/03/2025,21.4
+Bogotá,07/03/2025,17.9
+Medellín,07/03/2025,18.1
+Sincelejo,07/03/2025,26.4
+Barranquilla,07/03/2025,26.4
+Cartagena,07/03/2025,24.2
+Bucaramanga,07/03/2025,15.0
+Pereira,07/03/2025,18.5
+Cúcuta,07/03/2025,34.2
+Santa Marta,07/03/2025,24.9
+Montería,07/03/2025,33.0
+Bogotá,08/03/2025,29.0
+Medellín,08/03/2025,20.2
+Sincelejo,08/03/2025,22.1
+Barranquilla,08/03/2025,26.7
+Cartagena,08/03/2025,27.2
+Bucaramanga,08/03/2025,27.5
+Pereira,08/03/2025,20.0
+Cúcuta,08/03/2025,22.3
+Santa Marta,08/03/2025,31.9
+Montería,08/03/2025,31.3
+Bogotá,09/03/2025,30.8
+Medellín,09/03/2025,30.9
+Sincelejo,09/03/2025,20.9
+Barranquilla,09/03/2025,17.5
+Cartagena,09/03/2025,21.6
+Bucaramanga,09/03/2025,30.0
+Pereira,09/03/2025,21.2
+Cúcuta,09/03/2025,27.6
+Santa Marta,09/03/2025,22.1
+Montería,09/03/2025,15.6
+Bogotá,10/03/2025,15.2
+Medellín,10/03/2025,24.0
+Sincelejo,10/03/2025,20.9
+Barranquilla,10/03/2025,30.6
+Cartagena,10/03/2025,31.5
+Bucaramanga,10/03/2025,28.1
+Pereira,10/03/2025,19.9
+Cúcuta,10/03/2025,34.3
+Santa Marta,10/03/2025,16.5
+Montería,10/03/2025,15.5
+Bogotá,11/03/2025,34.7
+Medellín,11/03/2025,31.0
+Sincelejo,11/03/2025,23.8
+Barranquilla,11/03/2025,32.4
+Cartagena,11/03/2025,27.0
+Bucaramanga,11/03/2025,21.6
+Pereira,11/03/2025,19.5
+Cúcuta,11/03/2025,17.1
+Santa Marta,11/03/2025,30.3
+Montería,11/03/2025,27.5
+Bogotá,12/03/2025,19.2
+Medellín,12/03/2025,23.5
+Sincelejo,12/03/2025,14.8
+Barranquilla,12/03/2025,25.1
+Cartagena,12/03/2025,34.7
+Bucaramanga,12/03/2025,23.0
+Pereira,12/03/2025,26.1
+Cúcuta,12/03/2025,32.7
+Santa Marta,12/03/2025,32.3
+Montería,12/03/2025,17.1
+Bogotá,13/03/2025,30.5
+Medellín,13/03/2025,19.6
+Sincelejo,13/03/2025,18.9
+Barranquilla,13/03/2025,34.6
+Cartagena,13/03/2025,18.4
+Bucaramanga,13/03/2025,21.0
+Pereira,13/03/2025,23.1
+Cúcuta,13/03/2025,17.0
+Santa Marta,13/03/2025,33.1
+Montería,13/03/2025,34.4
+Bogotá,14/03/2025,31.9
+Medellín,14/03/2025,31.2
+Sincelejo,14/03/2025,17.0
+Barranquilla,14/03/2025,29.3
+Cartagena,14/03/2025,34.7
+Bucaramanga,14/03/2025,32.2
+Pereira,14/03/2025,32.9
+Cúcuta,14/03/2025,15.6
+Santa Marta,14/03/2025,21.3
+Montería,14/03/2025,27.4
+Bogotá,15/03/2025,21.9
+Medellín,15/03/2025,24.9
+Sincelejo,15/03/2025,22.8
+Barranquilla,15/03/2025,27.3
+Cartagena,15/03/2025,18.2
+Bucaramanga,15/03/2025,19.5
+Pereira,15/03/2025,19.8
+Cúcuta,15/03/2025,30.5
+Santa Marta,15/03/2025,18.3
+Montería,15/03/2025,27.0
+Bogotá,16/03/2025,16.8
+Medellín,16/03/2025,24.8
+Sincelejo,16/03/2025,17.7
+Barranquilla,16/03/2025,17.9
+Cartagena,16/03/2025,17.2
+Bucaramanga,16/03/2025,26.4
+Pereira,16/03/2025,29.4
+Cúcuta,16/03/2025,25.0
+Santa Marta,16/03/2025,25.5
+Montería,16/03/2025,15.6
+Bogotá,17/03/2025,23.0
+Medellín,17/03/2025,14.7
+Sincelejo,17/03/2025,29.1
+Barranquilla,17/03/2025,16.1
+Cartagena,17/03/2025,15.6
+Bucaramanga,17/03/2025,34.0
+Pereira,17/03/2025,29.2
+Cúcuta,17/03/2025,29.5
+Santa Marta,17/03/2025,18.9
+Montería,17/03/2025,28.9
+Bogotá,18/03/2025,33.5
+Medellín,18/03/2025,17.6
+Sincelejo,18/03/2025,26.5
+Barranquilla,18/03/2025,23.4
+Cartagena,18/03/2025,18.9
+Bucaramanga,18/03/2025,24.3
+Pereira,18/03/2025,26.3
+Cúcuta,18/03/2025,17.6
+Santa Marta,18/03/2025,15.5
+Montería,18/03/2025,16.6
+Bogotá,19/03/2025,16.1
+Medellín,19/03/2025,18.6
+Sincelejo,19/03/2025,34.4
+Barranquilla,19/03/2025,18.5
+Cartagena,19/03/2025,17.2
+Bucaramanga,19/03/2025,19.1
+Pereira,19/03/2025,19.1
+Cúcuta,19/03/2025,29.3
+Santa Marta,19/03/2025,25.0
+Montería,19/03/2025,16.9
+Bogotá,20/03/2025,29.2
+Medellín,20/03/2025,31.5
+Sincelejo,20/03/2025,29.0
+Barranquilla,20/03/2025,19.4
+Cartagena,20/03/2025,15.4
+Bucaramanga,20/03/2025,31.8
+Pereira,20/03/2025,23.8
+Cúcuta,20/03/2025,33.0
+Santa Marta,20/03/2025,23.6
+Montería,20/03/2025,20.4
+Bogotá,21/03/2025,25.1
+Medellín,21/03/2025,27.7
+Sincelejo,21/03/2025,34.1
+Barranquilla,21/03/2025,21.6
+Cartagena,21/03/2025,27.6
+Bucaramanga,21/03/2025,18.6
+Pereira,21/03/2025,33.4
+Cúcuta,21/03/2025,32.1
+Santa Marta,21/03/2025,34.5
+Montería,21/03/2025,18.2
+Bogotá,22/03/2025,20.6
+Medellín,22/03/2025,27.7
+Sincelejo,22/03/2025,15.9
+Barranquilla,22/03/2025,15.7
+Cartagena,22/03/2025,27.3
+Bucaramanga,22/03/2025,24.0
+Pereira,22/03/2025,17.9
+Cúcuta,22/03/2025,14.8
+Santa Marta,22/03/2025,17.4
+Montería,22/03/2025,25.2
+Bogotá,23/03/2025,16.2
+Medellín,23/03/2025,31.7
+Sincelejo,23/03/2025,33.6
+Barranquilla,23/03/2025,16.1
+Cartagena,23/03/2025,16.5
+Bucaramanga,23/03/2025,17.1
+Pereira,23/03/2025,26.7
+Cúcuta,23/03/2025,24.5
+Santa Marta,23/03/2025,15.7
+Montería,23/03/2025,19.8
+Bogotá,24/03/2025,21.7
+Medellín,24/03/2025,28.1
+Sincelejo,24/03/2025,22.9
+Barranquilla,24/03/2025,30.1
+Cartagena,24/03/2025,16.9
+Bucaramanga,24/03/2025,17.5
+Pereira,24/03/2025,30.5
+Cúcuta,24/03/2025,22.9
+Santa Marta,24/03/2025,24.3
+Montería,24/03/2025,27.6
+Bogotá,25/03/2025,20.3
+Medellín,25/03/2025,17.6
+Sincelejo,25/03/2025,32.8
+Barranquilla,25/03/2025,20.4
+Cartagena,25/03/2025,32.6
+Bucaramanga,25/03/2025,33.9
+Pereira,25/03/2025,16.1
+Cúcuta,25/03/2025,16.4
+Santa Marta,25/03/2025,21.0
+Montería,25/03/2025,18.8
+Bogotá,26/03/2025,28.2
+Medellín,26/03/2025,33.2
+Sincelejo,26/03/2025,19.9
+Barranquilla,26/03/2025,30.4
+Cartagena,26/03/2025,30.6
+Bucaramanga,26/03/2025,31.3
+Pereira,26/03/2025,29.1
+Cúcuta,26/03/2025,33.1
+Santa Marta,26/03/2025,15.9
+Montería,26/03/2025,34.5
+Bogotá,27/03/2025,26.5
+Medellín,27/03/2025,26.5
+Sincelejo,27/03/2025,20.2
+Barranquilla,27/03/2025,17.0
+Cartagena,27/03/2025,27.6
+Bucaramanga,27/03/2025,24.1
+Pereira,27/03/2025,26.0
+Cúcuta,27/03/2025,21.5
+Santa Marta,27/03/2025,25.1
+Montería,27/03/2025,22.9
+Bogotá,28/03/2025,24.3
+Medellín,28/03/2025,20.8
+Sincelejo,28/03/2025,24.4
+Barranquilla,28/03/2025,27.0
+Cartagena,28/03/2025,22.9
+Bucaramanga,28/03/2025,23.2
+Pereira,28/03/2025,29.7
+Cúcuta,28/03/2025,26.4
+Santa Marta,28/03/2025,27.1
+Montería,28/03/2025,27.5
+Bogotá,29/03/2025,26.7
+Medellín,29/03/2025,31.3
+Sincelejo,29/03/2025,21.8
+Barranquilla,29/03/2025,15.0
+Cartagena,29/03/2025,20.8
+Bucaramanga,29/03/2025,32.0
+Pereira,29/03/2025,22.0
+Cúcuta,29/03/2025,29.4
+Santa Marta,29/03/2025,19.3
+Montería,29/03/2025,19.5
+Bogotá,30/03/2025,29.0
+Medellín,30/03/2025,21.8
+Sincelejo,30/03/2025,33.4
+Barranquilla,30/03/2025,20.3
+Cartagena,30/03/2025,19.2
+Bucaramanga,30/03/2025,20.6
+Pereira,30/03/2025,16.0
+Cúcuta,30/03/2025,23.4
+Santa Marta,30/03/2025,19.7
+Montería,30/03/2025,27.6
+Bogotá,31/03/2025,34.4
+Medellín,31/03/2025,18.7
+Sincelejo,31/03/2025,16.7
+Barranquilla,31/03/2025,33.8
+Cartagena,31/03/2025,26.2
+Bucaramanga,31/03/2025,23.3
+Pereira,31/03/2025,31.7
+Cúcuta,31/03/2025,33.5
+Santa Marta,31/03/2025,21.6
+Montería,31/03/2025,19.2
+Bogotá,01/04/2025,21.0
+Medellín,01/04/2025,20.8
+Sincelejo,01/04/2025,17.3
+Barranquilla,01/04/2025,27.9
+Cartagena,01/04/2025,15.9
+Bucaramanga,01/04/2025,17.0
+Pereira,01/04/2025,16.8
+Cúcuta,01/04/2025,20.0
+Santa Marta,01/04/2025,20.3
+Montería,01/04/2025,34.0
+Bogotá,02/04/2025,24.7
+Medellín,02/04/2025,28.3
+Sincelejo,02/04/2025,21.3
+Barranquilla,02/04/2025,28.9
+Cartagena,02/04/2025,21.6
+Bucaramanga,02/04/2025,23.1
+Pereira,02/04/2025,16.5
+Cúcuta,02/04/2025,26.6
+Santa Marta,02/04/2025,30.7
+Montería,02/04/2025,30.8
+Bogotá,03/04/2025,30.2
+Medellín,03/04/2025,17.5
+Sincelejo,03/04/2025,32.5
+Barranquilla,03/04/2025,25.9
+Cartagena,03/04/2025,33.1
+Bucaramanga,03/04/2025,18.7
+Pereira,03/04/2025,27.2
+Cúcuta,03/04/2025,19.7
+Santa Marta,03/04/2025,33.5
+Montería,03/04/2025,20.0
+Bogotá,04/04/2025,29.2
+Medellín,04/04/2025,24.5
+Sincelejo,04/04/2025,34.6
+Barranquilla,04/04/2025,33.4
+Cartagena,04/04/2025,27.9
+Bucaramanga,04/04/2025,34.0
+Pereira,04/04/2025,34.1
+Cúcuta,04/04/2025,20.2
+Santa Marta,04/04/2025,30.6
+Montería,04/04/2025,33.0
+Bogotá,05/04/2025,20.9
+Medellín,05/04/2025,23.6
+Sincelejo,05/04/2025,17.2
+Barranquilla,05/04/2025,22.0
+Cartagena,05/04/2025,32.6
+Bucaramanga,05/04/2025,21.6
+Pereira,05/04/2025,25.4
+Cúcuta,05/04/2025,15.2
+Santa Marta,05/04/2025,33.9
+Montería,05/04/2025,30.0
+Bogotá,06/04/2025,31.4
+Medellín,06/04/2025,29.1
+Sincelejo,06/04/2025,34.5
+Barranquilla,06/04/2025,17.4
+Cartagena,06/04/2025,15.2
+Bucaramanga,06/04/2025,16.8
+Pereira,06/04/2025,18.3
+Cúcuta,06/04/2025,32.6
+Santa Marta,06/04/2025,15.1
+Montería,06/04/2025,17.6
+Bogotá,07/04/2025,33.9
+Medellín,07/04/2025,20.7
+Sincelejo,07/04/2025,21.2
+Barranquilla,07/04/2025,20.7
+Cartagena,07/04/2025,35.1
+Bucaramanga,07/04/2025,27.3
+Pereira,07/04/2025,27.3
+Cúcuta,07/04/2025,22.1
+Santa Marta,07/04/2025,15.8
+Montería,07/04/2025,24.7
+Bogotá,08/04/2025,30.8
+Medellín,08/04/2025,34.5
+Sincelejo,08/04/2025,34.5
+Barranquilla,08/04/2025,30.9
+Cartagena,08/04/2025,33.9
+Bucaramanga,08/04/2025,33.0
+Pereira,08/04/2025,26.2
+Cúcuta,08/04/2025,22.4
+Santa Marta,08/04/2025,18.3
+Montería,08/04/2025,30.9
+Bogotá,09/04/2025,32.6
+Medellín,09/04/2025,16.8
+Sincelejo,09/04/2025,33.3
+Barranquilla,09/04/2025,16.7
+Cartagena,09/04/2025,18.8
+Bucaramanga,09/04/2025,17.5
+Pereira,09/04/2025,32.1
+Cúcuta,09/04/2025,26.7
+Santa Marta,09/04/2025,16.3
+Montería,09/04/2025,16.7
+Bogotá,10/04/2025,18.0
+Medellín,10/04/2025,16.2
+Sincelejo,10/04/2025,20.5
+Barranquilla,10/04/2025,22.9
+Cartagena,10/04/2025,34.5
+Bucaramanga,10/04/2025,29.7
+Pereira,10/04/2025,29.6
+Cúcuta,10/04/2025,30.6
+Santa Marta,10/04/2025,19.4
+Montería,10/04/2025,20.4
+Bogotá,11/04/2025,14.9
+Medellín,11/04/2025,27.0
+Sincelejo,11/04/2025,34.0
+Barranquilla,11/04/2025,33.6
+Cartagena,11/04/2025,27.3
+Bucaramanga,11/04/2025,30.8
+Pereira,11/04/2025,24.5
+Cúcuta,11/04/2025,33.7
+Santa Marta,11/04/2025,21.2
+Montería,11/04/2025,16.3
+Bogotá,12/04/2025,33.0
+Medellín,12/04/2025,28.5
+Sincelejo,12/04/2025,15.4
+Barranquilla,12/04/2025,24.3
+Cartagena,12/04/2025,25.1
+Bucaramanga,12/04/2025,29.2
+Pereira,12/04/2025,20.1
+Cúcuta,12/04/2025,21.2
+Santa Marta,12/04/2025,34.8
+Montería,12/04/2025,19.4
+Bogotá,13/04/2025,16.9
+Medellín,13/04/2025,31.2
+Sincelejo,13/04/2025,33.4
+Barranquilla,13/04/2025,27.2
+Cartagena,13/04/2025,28.4
+Bucaramanga,13/04/2025,24.4
+Pereira,13/04/2025,21.8
+Cúcuta,13/04/2025,34.5
+Santa Marta,13/04/2025,26.3
+Montería,13/04/2025,21.4
+Bogotá,14/04/2025,28.7
+Medellín,14/04/2025,17.7
+Sincelejo,14/04/2025,32.5
+Barranquilla,14/04/2025,28.9
+Cartagena,14/04/2025,29.2
+Bucaramanga,14/04/2025,31.8
+Pereira,14/04/2025,20.0
+Cúcuta,14/04/2025,30.2
+Santa Marta,14/04/2025,27.1
+Montería,14/04/2025,22.6
+Bogotá,15/04/2025,15.3
+Medellín,15/04/2025,20.8
+Sincelejo,15/04/2025,18.0
+Barranquilla,15/04/2025,27.6
+Cartagena,15/04/2025,17.6
+Bucaramanga,15/04/2025,20.2
+Pereira,15/04/2025,30.9
+Cúcuta,15/04/2025,24.1
+Santa Marta,15/04/2025,22.8
+Montería,15/04/2025,34.5
+Bogotá,16/04/2025,16.9
+Medellín,16/04/2025,28.2
+Sincelejo,16/04/2025,23.4
+Barranquilla,16/04/2025,33.9
+Cartagena,16/04/2025,14.7
+Bucaramanga,16/04/2025,24.5
+Pereira,16/04/2025,16.9
+Cúcuta,16/04/2025,22.2
+Santa Marta,16/04/2025,31.2
+Montería,16/04/2025,27.7
+Bogotá,17/04/2025,32.8
+Medellín,17/04/2025,27.2
+Sincelejo,17/04/2025,15.9
+Barranquilla,17/04/2025,30.5
+Cartagena,17/04/2025,25.8
+Bucaramanga,17/04/2025,15.3
+Pereira,17/04/2025,15.5
+Cúcuta,17/04/2025,20.7
+Santa Marta,17/04/2025,29.9
+Montería,17/04/2025,30.5
+Bogotá,18/04/2025,29.3
+Medellín,18/04/2025,28.7
+Sincelejo,18/04/2025,24.7
+Barranquilla,18/04/2025,28.7
+Cartagena,18/04/2025,34.8
+Bucaramanga,18/04/2025,17.7
+Pereira,18/04/2025,26.4
+Cúcuta,18/04/2025,30.0
+Santa Marta,18/04/2025,18.2
+Montería,18/04/2025,17.4
+Bogotá,19/04/2025,15.3
+Medellín,19/04/2025,34.5
+Sincelejo,19/04/2025,33.1
+Barranquilla,19/04/2025,24.6
+Cartagena,19/04/2025,29.9
+Bucaramanga,19/04/2025,24.9
+Pereira,19/04/2025,26.3
+Cúcuta,19/04/2025,31.1
+Santa Marta,19/04/2025,28.2
+Montería,19/04/2025,27.0
+Bogotá,20/04/2025,26.9
+Medellín,20/04/2025,28.8
+Sincelejo,20/04/2025,31.1
+Barranquilla,20/04/2025,22.8
+Cartagena,20/04/2025,26.6
+Bucaramanga,20/04/2025,32.9
+Pereira,20/04/2025,24.9
+Cúcuta,20/04/2025,24.0
+Santa Marta,20/04/2025,31.2
+Montería,20/04/2025,33.0
+Bogotá,21/04/2025,21.5
+Medellín,21/04/2025,26.9
+Sincelejo,21/04/2025,21.4
+Barranquilla,21/04/2025,28.4
+Cartagena,21/04/2025,27.5
+Bucaramanga,21/04/2025,33.9
+Pereira,21/04/2025,20.4
+Cúcuta,21/04/2025,24.9
+Santa Marta,21/04/2025,19.5
+Montería,21/04/2025,35.4
+Bogotá,22/04/2025,31.1
+Medellín,22/04/2025,26.7
+Sincelejo,22/04/2025,22.2
+Barranquilla,22/04/2025,34.2
+Cartagena,22/04/2025,32.4
+Bucaramanga,22/04/2025,32.0
+Pereira,22/04/2025,30.1
+Cúcuta,22/04/2025,17.7
+Santa Marta,22/04/2025,34.1
+Montería,22/04/2025,29.1
+Bogotá,23/04/2025,33.1
+Medellín,23/04/2025,24.4
+Sincelejo,23/04/2025,32.9
+Barranquilla,23/04/2025,20.8
+Cartagena,23/04/2025,24.3
+Bucaramanga,23/04/2025,17.8
+Pereira,23/04/2025,29.3
+Cúcuta,23/04/2025,17.4
+Santa Marta,23/04/2025,30.8
+Montería,23/04/2025,15.5
+Bogotá,24/04/2025,19.1
+Medellín,24/04/2025,26.8
+Sincelejo,24/04/2025,29.3
+Barranquilla,24/04/2025,17.7
+Cartagena,24/04/2025,33.2
+Bucaramanga,24/04/2025,27.8
+Pereira,24/04/2025,17.3
+Cúcuta,24/04/2025,29.5
+Santa Marta,24/04/2025,32.3
+Montería,24/04/2025,21.1
+Bogotá,25/04/2025,30.1
+Medellín,25/04/2025,22.0
+Sincelejo,25/04/2025,28.8
+Barranquilla,25/04/2025,27.7
+Cartagena,25/04/2025,19.5
+Bucaramanga,25/04/2025,23.2
+Pereira,25/04/2025,32.9
+Cúcuta,25/04/2025,25.1
+Santa Marta,25/04/2025,25.9
+Montería,25/04/2025,33.4
+Bogotá,26/04/2025,28.0
+Medellín,26/04/2025,19.8
+Sincelejo,26/04/2025,26.4
+Barranquilla,26/04/2025,34.7
+Cartagena,26/04/2025,21.3
+Bucaramanga,26/04/2025,19.6
+Pereira,26/04/2025,27.0
+Cúcuta,26/04/2025,20.9
+Santa Marta,26/04/2025,21.9
+Montería,26/04/2025,15.1
+Bogotá,27/04/2025,15.7
+Medellín,27/04/2025,26.2
+Sincelejo,27/04/2025,29.8
+Barranquilla,27/04/2025,17.6
+Cartagena,27/04/2025,18.5
+Bucaramanga,27/04/2025,34.1
+Pereira,27/04/2025,20.1
+Cúcuta,27/04/2025,23.7
+Santa Marta,27/04/2025,25.0
+Montería,27/04/2025,17.1
+Bogotá,28/04/2025,29.0
+Medellín,28/04/2025,19.8
+Sincelejo,28/04/2025,33.9
+Barranquilla,28/04/2025,31.6
+Cartagena,28/04/2025,18.2
+Bucaramanga,28/04/2025,32.6
+Pereira,28/04/2025,34.2
+Cúcuta,28/04/2025,24.8
+Santa Marta,28/04/2025,30.3
+Montería,28/04/2025,17.2
+Bogotá,29/04/2025,16.0
+Medellín,29/04/2025,27.3
+Sincelejo,29/04/2025,24.4
+Barranquilla,29/04/2025,26.1
+Cartagena,29/04/2025,16.6
+Bucaramanga,29/04/2025,16.7
+Pereira,29/04/2025,20.6
+Cúcuta,29/04/2025,23.4
+Santa Marta,29/04/2025,33.8
+Montería,29/04/2025,19.3
+Bogotá,30/04/2025,26.8
+Medellín,30/04/2025,34.5
+Sincelejo,30/04/2025,22.3
+Barranquilla,30/04/2025,29.7
+Cartagena,30/04/2025,35.0
+Bucaramanga,30/04/2025,34.6
+Pereira,30/04/2025,16.4
+Cúcuta,30/04/2025,21.3
+Santa Marta,30/04/2025,19.1
+Montería,30/04/2025,25.8
+Bogotá,01/05/2025,19.9
+Medellín,01/05/2025,23.7
+Sincelejo,01/05/2025,15.9
+Barranquilla,01/05/2025,31.9
+Cartagena,01/05/2025,25.8
+Bucaramanga,01/05/2025,33.9
+Pereira,01/05/2025,22.7
+Cúcuta,01/05/2025,21.7
+Santa Marta,01/05/2025,19.1
+Montería,01/05/2025,25.6
+Bogotá,02/05/2025,28.8
+Medellín,02/05/2025,26.8
+Sincelejo,02/05/2025,16.9
+Barranquilla,02/05/2025,22.5
+Cartagena,02/05/2025,25.8
+Bucaramanga,02/05/2025,19.6
+Pereira,02/05/2025,19.8
+Cúcuta,02/05/2025,34.3
+Santa Marta,02/05/2025,15.2
+Montería,02/05/2025,28.9
+Bogotá,03/05/2025,23.8
+Medellín,03/05/2025,31.3
+Sincelejo,03/05/2025,20.1
+Barranquilla,03/05/2025,22.7
+Cartagena,03/05/2025,29.2
+Bucaramanga,03/05/2025,29.8
+Pereira,03/05/2025,19.4
+Cúcuta,03/05/2025,30.9
+Santa Marta,03/05/2025,27.2
+Montería,03/05/2025,30.1
+Bogotá,04/05/2025,17.0
+Medellín,04/05/2025,26.4
+Sincelejo,04/05/2025,14.9
+Barranquilla,04/05/2025,17.6
+Cartagena,04/05/2025,16.2
+Bucaramanga,04/05/2025,30.9
+Pereira,04/05/2025,15.7
+Cúcuta,04/05/2025,16.1
+Santa Marta,04/05/2025,24.1
+Montería,04/05/2025,24.4
+Bogotá,05/05/2025,31.1
+Medellín,05/05/2025,21.8
+Sincelejo,05/05/2025,25.9
+Barranquilla,05/05/2025,27.6
+Cartagena,05/05/2025,21.2
+Bucaramanga,05/05/2025,33.0
+Pereira,05/05/2025,19.7
+Cúcuta,05/05/2025,16.7
+Santa Marta,05/05/2025,14.9
+Montería,05/05/2025,31.6
+Bogotá,06/05/2025,33.7
+Medellín,06/05/2025,27.8
+Sincelejo,06/05/2025,29.7
+Barranquilla,06/05/2025,25.1
+Cartagena,06/05/2025,18.0
+Bucaramanga,06/05/2025,30.3
+Pereira,06/05/2025,14.9
+Cúcuta,06/05/2025,27.5
+Santa Marta,06/05/2025,17.9
+Montería,06/05/2025,35.2
+Bogotá,07/05/2025,17.2
+Medellín,07/05/2025,16.8
+Sincelejo,07/05/2025,25.1
+Barranquilla,07/05/2025,25.7
+Cartagena,07/05/2025,31.6
+Bucaramanga,07/05/2025,15.6
+Pereira,07/05/2025,32.6
+Cúcuta,07/05/2025,18.8
+Santa Marta,07/05/2025,25.2
+Montería,07/05/2025,29.9
+Bogotá,08/05/2025,30.2
+Medellín,08/05/2025,25.7
+Sincelejo,08/05/2025,29.6
+Barranquilla,08/05/2025,26.5
+Cartagena,08/05/2025,20.2
+Bucaramanga,08/05/2025,24.9
+Pereira,08/05/2025,23.0
+Cúcuta,08/05/2025,30.0
+Santa Marta,08/05/2025,23.8
+Montería,08/05/2025,19.5
+Bogotá,09/05/2025,29.9
+Medellín,09/05/2025,16.0
+Sincelejo,09/05/2025,34.9
+Barranquilla,09/05/2025,17.4
+Cartagena,09/05/2025,18.1
+Bucaramanga,09/05/2025,34.2
+Pereira,09/05/2025,17.6
+Cúcuta,09/05/2025,33.8
+Santa Marta,09/05/2025,22.4
+Montería,09/05/2025,23.7
+Bogotá,10/05/2025,30.8
+Medellín,10/05/2025,24.6
+Sincelejo,10/05/2025,32.1
+Barranquilla,10/05/2025,31.5
+Cartagena,10/05/2025,16.9
+Bucaramanga,10/05/2025,27.2
+Pereira,10/05/2025,21.3
+Cúcuta,10/05/2025,24.3
+Santa Marta,10/05/2025,17.6
+Montería,10/05/2025,21.9
+Bogotá,11/05/2025,24.8
+Medellín,11/05/2025,24.1
+Sincelejo,11/05/2025,26.4
+Barranquilla,11/05/2025,27.2
+Cartagena,11/05/2025,16.3
+Bucaramanga,11/05/2025,31.2
+Pereira,11/05/2025,34.1
+Cúcuta,11/05/2025,30.9
+Santa Marta,11/05/2025,23.9
+Montería,11/05/2025,31.8
+Bogotá,12/05/2025,16.9
+Medellín,12/05/2025,24.2
+Sincelejo,12/05/2025,15.0
+Barranquilla,12/05/2025,15.5
+Cartagena,12/05/2025,18.8
+Bucaramanga,12/05/2025,33.7
+Pereira,12/05/2025,16.3
+Cúcuta,12/05/2025,35.2
+Santa Marta,12/05/2025,15.0
+Montería,12/05/2025,29.8
+Bogotá,13/05/2025,29.7
+Medellín,13/05/2025,17.7
+Sincelejo,13/05/2025,15.3
+Barranquilla,13/05/2025,25.4
+Cartagena,13/05/2025,16.9
+Bucaramanga,13/05/2025,29.9
+Pereira,13/05/2025,33.1
+Cúcuta,13/05/2025,25.0
+Santa Marta,13/05/2025,18.5
+Montería,13/05/2025,21.4
+Bogotá,14/05/2025,20.6
+Medellín,14/05/2025,31.4
+Sincelejo,14/05/2025,18.2
+Barranquilla,14/05/2025,26.0
+Cartagena,14/05/2025,26.9
+Bucaramanga,14/05/2025,30.5
+Pereira,14/05/2025,17.7
+Cúcuta,14/05/2025,28.5
+Santa Marta,14/05/2025,28.0
+Montería,14/05/2025,27.5
+Bogotá,15/05/2025,26.5
+Medellín,15/05/2025,25.2
+Sincelejo,15/05/2025,31.8
+Barranquilla,15/05/2025,25.0
+Cartagena,15/05/2025,32.2
+Bucaramanga,15/05/2025,24.9
+Pereira,15/05/2025,33.7
+Cúcuta,15/05/2025,26.3
+Santa Marta,15/05/2025,31.4
+Montería,15/05/2025,16.5
+Bogotá,16/05/2025,28.7
+Medellín,16/05/2025,22.4
+Sincelejo,16/05/2025,19.2
+Barranquilla,16/05/2025,28.1
+Cartagena,16/05/2025,26.1
+Bucaramanga,16/05/2025,24.0
+Pereira,16/05/2025,30.7
+Cúcuta,16/05/2025,30.6
+Santa Marta,16/05/2025,20.9
+Montería,16/05/2025,19.6
+Bogotá,17/05/2025,34.1
+Medellín,17/05/2025,20.7
+Sincelejo,17/05/2025,34.7
+Barranquilla,17/05/2025,21.0
+Cartagena,17/05/2025,34.1
+Bucaramanga,17/05/2025,31.0
+Pereira,17/05/2025,26.8
+Cúcuta,17/05/2025,16.8
+Santa Marta,17/05/2025,30.4
+Montería,17/05/2025,15.3
+Bogotá,18/05/2025,28.5
+Medellín,18/05/2025,22.5
+Sincelejo,18/05/2025,21.4
+Barranquilla,18/05/2025,21.3
+Cartagena,18/05/2025,20.5
+Bucaramanga,18/05/2025,31.8
+Pereira,18/05/2025,27.5
+Cúcuta,18/05/2025,33.5
+Santa Marta,18/05/2025,19.1
+Montería,18/05/2025,30.1
+Bogotá,19/05/2025,20.1
+Medellín,19/05/2025,15.5
+Sincelejo,19/05/2025,28.6
+Barranquilla,19/05/2025,30.6
+Cartagena,19/05/2025,30.4
+Bucaramanga,19/05/2025,33.2
+Pereira,19/05/2025,32.7
+Cúcuta,19/05/2025,21.3
+Santa Marta,19/05/2025,33.4
+Montería,19/05/2025,35.2
+Bogotá,20/05/2025,31.8
+Medellín,20/05/2025,17.1
+Sincelejo,20/05/2025,26.7
+Barranquilla,20/05/2025,33.8
+Cartagena,20/05/2025,26.0
+Bucaramanga,20/05/2025,25.8
+Pereira,20/05/2025,23.1
+Cúcuta,20/05/2025,30.1
+Santa Marta,20/05/2025,23.7
+Montería,20/05/2025,18.8
+Bogotá,21/05/2025,22.9
+Medellín,21/05/2025,33.0
+Sincelejo,21/05/2025,25.2
+Barranquilla,21/05/2025,22.4
+Cartagena,21/05/2025,15.8
+Bucaramanga,21/05/2025,30.7
+Pereira,21/05/2025,30.7
+Cúcuta,21/05/2025,33.2
+Santa Marta,21/05/2025,26.8
+Montería,21/05/2025,15.8
+Bogotá,22/05/2025,22.0
+Medellín,22/05/2025,34.3
+Sincelejo,22/05/2025,17.7
+Barranquilla,22/05/2025,33.2
+Cartagena,22/05/2025,28.9
+Bucaramanga,22/05/2025,15.4
+Pereira,22/05/2025,18.0
+Cúcuta,22/05/2025,15.6
+Santa Marta,22/05/2025,34.0
+Montería,22/05/2025,34.6
+Bogotá,23/05/2025,33.5
+Medellín,23/05/2025,17.3
+Sincelejo,23/05/2025,30.4
+Barranquilla,23/05/2025,16.5
+Cartagena,23/05/2025,17.4
+Bucaramanga,23/05/2025,27.4
+Pereira,23/05/2025,24.6
+Cúcuta,23/05/2025,30.7
+Santa Marta,23/05/2025,24.2
+Montería,23/05/2025,20.4
+Bogotá,24/05/2025,27.2
+Medellín,24/05/2025,34.1
+Sincelejo,24/05/2025,15.0
+Barranquilla,24/05/2025,26.2
+Cartagena,24/05/2025,19.8
+Bucaramanga,24/05/2025,16.4
+Pereira,24/05/2025,16.5
+Cúcuta,24/05/2025,32.5
+Santa Marta,24/05/2025,31.0
+Montería,24/05/2025,20.7
+Bogotá,25/05/2025,15.7
+Medellín,25/05/2025,32.4
+Sincelejo,25/05/2025,31.4
+Barranquilla,25/05/2025,28.1
+Cartagena,25/05/2025,22.9
+Bucaramanga,25/05/2025,22.1
+Pereira,25/05/2025,29.1
+Cúcuta,25/05/2025,23.8
+Santa Marta,25/05/2025,15.9
+Montería,25/05/2025,31.8
+Bogotá,26/05/2025,26.6
+Medellín,26/05/2025,15.9
+Sincelejo,26/05/2025,16.4
+Barranquilla,26/05/2025,28.5
+Cartagena,26/05/2025,16.5
+Bucaramanga,26/05/2025,34.1
+Pereira,26/05/2025,23.4
+Cúcuta,26/05/2025,16.5
+Santa Marta,26/05/2025,31.1
+Montería,26/05/2025,15.2
+Bogotá,27/05/2025,27.7
+Medellín,27/05/2025,16.5
+Sincelejo,27/05/2025,22.6
+Barranquilla,27/05/2025,34.7
+Cartagena,27/05/2025,17.8
+Bucaramanga,27/05/2025,27.9
+Pereira,27/05/2025,23.1
+Cúcuta,27/05/2025,33.2
+Santa Marta,27/05/2025,21.9
+Montería,27/05/2025,31.8
+Bogotá,28/05/2025,33.2
+Medellín,28/05/2025,18.9
+Sincelejo,28/05/2025,28.2
+Barranquilla,28/05/2025,33.2
+Cartagena,28/05/2025,25.5
+Bucaramanga,28/05/2025,29.1
+Pereira,28/05/2025,18.2
+Cúcuta,28/05/2025,21.6
+Santa Marta,28/05/2025,17.7
+Montería,28/05/2025,32.3
+Bogotá,29/05/2025,15.8
+Medellín,29/05/2025,23.0
+Sincelejo,29/05/2025,18.2
+Barranquilla,29/05/2025,35.0
+Cartagena,29/05/2025,24.9
+Bucaramanga,29/05/2025,21.9
+Pereira,29/05/2025,20.5
+Cúcuta,29/05/2025,32.1
+Santa Marta,29/05/2025,15.0
+Montería,29/05/2025,21.5
+Bogotá,30/05/2025,24.1
+Medellín,30/05/2025,27.3
+Sincelejo,30/05/2025,22.6
+Barranquilla,30/05/2025,17.3
+Cartagena,30/05/2025,24.7
+Bucaramanga,30/05/2025,26.4
+Pereira,30/05/2025,18.6
+Cúcuta,30/05/2025,30.3
+Santa Marta,30/05/2025,19.5
+Montería,30/05/2025,23.3
+Bogotá,31/05/2025,16.6
+Medellín,31/05/2025,29.9
+Sincelejo,31/05/2025,23.2
+Barranquilla,31/05/2025,28.2
+Cartagena,31/05/2025,26.1
+Bucaramanga,31/05/2025,18.0
+Pereira,31/05/2025,31.2
+Cúcuta,31/05/2025,29.5
+Santa Marta,31/05/2025,28.9
+Montería,31/05/2025,21.4
+Bogotá,01/06/2025,31.5
+Medellín,01/06/2025,34.7
+Sincelejo,01/06/2025,25.7
+Barranquilla,01/06/2025,32.2
+Cartagena,01/06/2025,34.0
+Bucaramanga,01/06/2025,31.5
+Pereira,01/06/2025,29.9
+Cúcuta,01/06/2025,26.1
+Santa Marta,01/06/2025,30.8
+Montería,01/06/2025,24.6
+Bogotá,02/06/2025,19.6
+Medellín,02/06/2025,29.6
+Sincelejo,02/06/2025,23.9
+Barranquilla,02/06/2025,19.7
+Cartagena,02/06/2025,25.1
+Bucaramanga,02/06/2025,20.1
+Pereira,02/06/2025,16.9
+Cúcuta,02/06/2025,28.1
+Santa Marta,02/06/2025,31.9
+Montería,02/06/2025,20.3
+Bogotá,03/06/2025,26.0
+Medellín,03/06/2025,15.2
+Sincelejo,03/06/2025,21.9
+Barranquilla,03/06/2025,31.4
+Cartagena,03/06/2025,16.5
+Bucaramanga,03/06/2025,19.3
+Pereira,03/06/2025,33.0
+Cúcuta,03/06/2025,20.3
+Santa Marta,03/06/2025,26.2
+Montería,03/06/2025,26.4
+Bogotá,04/06/2025,35.0
+Medellín,04/06/2025,30.7
+Sincelejo,04/06/2025,30.8
+Barranquilla,04/06/2025,23.6
+Cartagena,04/06/2025,27.2
+Bucaramanga,04/06/2025,34.7
+Pereira,04/06/2025,34.1
+Cúcuta,04/06/2025,18.6
+Santa Marta,04/06/2025,24.0
+Montería,04/06/2025,15.9
+Bogotá,05/06/2025,27.5
+Medellín,05/06/2025,17.6
+Sincelejo,05/06/2025,30.0
+Barranquilla,05/06/2025,32.5
+Cartagena,05/06/2025,16.7
+Bucaramanga,05/06/2025,24.3
+Pereira,05/06/2025,35.3
+Cúcuta,05/06/2025,20.8
+Santa Marta,05/06/2025,19.5
+Montería,05/06/2025,20.8
+Bogotá,06/06/2025,34.7
+Medellín,06/06/2025,30.4
+Sincelejo,06/06/2025,22.1
+Barranquilla,06/06/2025,24.0
+Cartagena,06/06/2025,24.4
+Bucaramanga,06/06/2025,21.6
+Pereira,06/06/2025,14.9
+Cúcuta,06/06/2025,18.6
+Santa Marta,06/06/2025,17.0
+Montería,06/06/2025,19.1
+Bogotá,07/06/2025,15.5
+Medellín,07/06/2025,21.0
+Sincelejo,07/06/2025,30.9
+Barranquilla,07/06/2025,22.6
+Cartagena,07/06/2025,17.6
+Bucaramanga,07/06/2025,34.0
+Pereira,07/06/2025,15.3
+Cúcuta,07/06/2025,19.3
+Santa Marta,07/06/2025,22.8
+Montería,07/06/2025,26.0
+Bogotá,08/06/2025,30.7
+Medellín,08/06/2025,31.6
+Sincelejo,08/06/2025,29.2
+Barranquilla,08/06/2025,17.6
+Cartagena,08/06/2025,27.5
+Bucaramanga,08/06/2025,16.2
+Pereira,08/06/2025,19.7
+Cúcuta,08/06/2025,22.2
+Santa Marta,08/06/2025,18.4
+Montería,08/06/2025,24.8
+Bogotá,09/06/2025,24.3
+Medellín,09/06/2025,29.4
+Sincelejo,09/06/2025,30.8
+Barranquilla,09/06/2025,25.8
+Cartagena,09/06/2025,27.9
+Bucaramanga,09/06/2025,18.5
+Pereira,09/06/2025,26.1
+Cúcuta,09/06/2025,34.7
+Santa Marta,09/06/2025,22.5
+Montería,09/06/2025,25.9
+Bogotá,10/06/2025,23.9
+Medellín,10/06/2025,23.6
+Sincelejo,10/06/2025,15.6
+Barranquilla,10/06/2025,33.2
+Cartagena,10/06/2025,16.2
+Bucaramanga,10/06/2025,29.4
+Pereira,10/06/2025,30.6
+Cúcuta,10/06/2025,26.7
+Santa Marta,10/06/2025,33.5
+Montería,10/06/2025,23.4
+Bogotá,11/06/2025,22.2
+Medellín,11/06/2025,16.4
+Sincelejo,11/06/2025,27.1
+Barranquilla,11/06/2025,16.2
+Cartagena,11/06/2025,21.4
+Bucaramanga,11/06/2025,27.9
+Pereira,11/06/2025,28.8
+Cúcuta,11/06/2025,18.1
+Santa Marta,11/06/2025,27.8
+Montería,11/06/2025,24.4
+Bogotá,12/06/2025,27.7
+Medellín,12/06/2025,17.8
+Sincelejo,12/06/2025,22.7
+Barranquilla,12/06/2025,31.3
+Cartagena,12/06/2025,22.1
+Bucaramanga,12/06/2025,30.2
+Pereira,12/06/2025,23.7
+Cúcuta,12/06/2025,29.1
+Santa Marta,12/06/2025,24.8
+Montería,12/06/2025,25.3
+Bogotá,13/06/2025,25.2
+Medellín,13/06/2025,17.3
+Sincelejo,13/06/2025,24.3
+Barranquilla,13/06/2025,31.2
+Cartagena,13/06/2025,18.1
+Bucaramanga,13/06/2025,23.7
+Pereira,13/06/2025,31.8
+Cúcuta,13/06/2025,29.3
+Santa Marta,13/06/2025,25.5
+Montería,13/06/2025,26.6
+Bogotá,14/06/2025,23.2
+Medellín,14/06/2025,21.3
+Sincelejo,14/06/2025,28.3
+Barranquilla,14/06/2025,25.9
+Cartagena,14/06/2025,15.4
+Bucaramanga,14/06/2025,24.6
+Pereira,14/06/2025,29.3
+Cúcuta,14/06/2025,29.0
+Santa Marta,14/06/2025,22.3
+Montería,14/06/2025,21.6
+Bogotá,15/06/2025,31.2
+Medellín,15/06/2025,31.1
+Sincelejo,15/06/2025,29.0
+Barranquilla,15/06/2025,33.7
+Cartagena,15/06/2025,29.1
+Bucaramanga,15/06/2025,28.8
+Pereira,15/06/2025,18.3
+Cúcuta,15/06/2025,32.6
+Santa Marta,15/06/2025,20.9
+Montería,15/06/2025,22.2
+Bogotá,16/06/2025,20.2
+Medellín,16/06/2025,33.3
+Sincelejo,16/06/2025,19.8
+Barranquilla,16/06/2025,20.4
+Cartagena,16/06/2025,25.2
+Bucaramanga,16/06/2025,15.7
+Pereira,16/06/2025,22.9
+Cúcuta,16/06/2025,29.1
+Santa Marta,16/06/2025,23.0
+Montería,16/06/2025,32.5
+Bogotá,17/06/2025,22.9
+Medellín,17/06/2025,30.3
+Sincelejo,17/06/2025,17.9
+Barranquilla,17/06/2025,24.3
+Cartagena,17/06/2025,16.4
+Bucaramanga,17/06/2025,15.9
+Pereira,17/06/2025,27.7
+Cúcuta,17/06/2025,26.8
+Santa Marta,17/06/2025,20.0
+Montería,17/06/2025,20.1
+Bogotá,18/06/2025,26.9
+Medellín,18/06/2025,19.0
+Sincelejo,18/06/2025,15.2
+Barranquilla,18/06/2025,27.4
+Cartagena,18/06/2025,24.9
+Bucaramanga,18/06/2025,29.8
+Pereira,18/06/2025,33.8
+Cúcuta,18/06/2025,20.3
+Santa Marta,18/06/2025,22.0
+Montería,18/06/2025,31.2
+Bogotá,19/06/2025,23.4
+Medellín,19/06/2025,35.0
+Sincelejo,19/06/2025,21.9
+Barranquilla,19/06/2025,21.8
+Cartagena,19/06/2025,15.7
+Bucaramanga,19/06/2025,19.3
+Pereira,19/06/2025,33.3
+Cúcuta,19/06/2025,29.7
+Santa Marta,19/06/2025,24.8
+Montería,19/06/2025,17.7
+Bogotá,20/06/2025,20.8
+Medellín,20/06/2025,24.7
+Sincelejo,20/06/2025,30.2
+Barranquilla,20/06/2025,20.1
+Cartagena,20/06/2025,21.3
+Bucaramanga,20/06/2025,29.9
+Pereira,20/06/2025,32.1
+Cúcuta,20/06/2025,33.0
+Santa Marta,20/06/2025,30.1
+Montería,20/06/2025,18.4
+Bogotá,21/06/2025,31.4
+Medellín,21/06/2025,20.0
+Sincelejo,21/06/2025,29.5
+Barranquilla,21/06/2025,33.9
+Cartagena,21/06/2025,24.1
+Bucaramanga,21/06/2025,17.7
+Pereira,21/06/2025,33.6
+Cúcuta,21/06/2025,27.5
+Santa Marta,21/06/2025,22.2
+Montería,21/06/2025,33.5
+Bogotá,22/06/2025,24.6
+Medellín,22/06/2025,20.1
+Sincelejo,22/06/2025,21.6
+Barranquilla,22/06/2025,19.1
+Cartagena,22/06/2025,17.5
+Bucaramanga,22/06/2025,32.5
+Pereira,22/06/2025,15.3
+Cúcuta,22/06/2025,33.7
+Santa Marta,22/06/2025,27.5
+Montería,22/06/2025,22.1
+Bogotá,23/06/2025,19.7
+Medellín,23/06/2025,16.5
+Sincelejo,23/06/2025,29.4
+Barranquilla,23/06/2025,33.0
+Cartagena,23/06/2025,17.1
+Bucaramanga,23/06/2025,19.3
+Pereira,23/06/2025,22.3
+Cúcuta,23/06/2025,15.9
+Santa Marta,23/06/2025,20.9
+Montería,23/06/2025,19.5
+Bogotá,24/06/2025,18.9
+Medellín,24/06/2025,26.8
+Sincelejo,24/06/2025,21.2
+Barranquilla,24/06/2025,21.4
+Cartagena,24/06/2025,18.2
+Bucaramanga,24/06/2025,20.2
+Pereira,24/06/2025,26.8
+Cúcuta,24/06/2025,24.3
+Santa Marta,24/06/2025,32.0
+Montería,24/06/2025,16.7
+Bogotá,25/06/2025,15.3
+Medellín,25/06/2025,17.9
+Sincelejo,25/06/2025,27.7
+Barranquilla,25/06/2025,25.9
+Cartagena,25/06/2025,15.8
+Bucaramanga,25/06/2025,17.3
+Pereira,25/06/2025,16.9
+Cúcuta,25/06/2025,29.6
+Santa Marta,25/06/2025,26.8
+Montería,25/06/2025,24.9
+Bogotá,26/06/2025,30.2
+Medellín,26/06/2025,28.1
+Sincelejo,26/06/2025,23.0
+Barranquilla,26/06/2025,22.0
+Cartagena,26/06/2025,20.2
+Bucaramanga,26/06/2025,30.6
+Pereira,26/06/2025,16.3
+Cúcuta,26/06/2025,18.4
+Santa Marta,26/06/2025,31.8
+Montería,26/06/2025,27.3
+Bogotá,27/06/2025,22.3
+Medellín,27/06/2025,22.4
+Sincelejo,27/06/2025,29.2
+Barranquilla,27/06/2025,20.0
+Cartagena,27/06/2025,27.9
+Bucaramanga,27/06/2025,22.3
+Pereira,27/06/2025,25.2
+Cúcuta,27/06/2025,30.0
+Santa Marta,27/06/2025,15.2
+Montería,27/06/2025,32.9
+Bogotá,28/06/2025,20.4
+Medellín,28/06/2025,27.1
+Sincelejo,28/06/2025,18.4
+Barranquilla,28/06/2025,31.6
+Cartagena,28/06/2025,21.1
+Bucaramanga,28/06/2025,14.9
+Pereira,28/06/2025,28.6
+Cúcuta,28/06/2025,18.8
+Santa Marta,28/06/2025,30.2
+Montería,28/06/2025,21.7
+Bogotá,29/06/2025,30.5
+Medellín,29/06/2025,19.2
+Sincelejo,29/06/2025,28.7
+Barranquilla,29/06/2025,22.2
+Cartagena,29/06/2025,29.8
+Bucaramanga,29/06/2025,24.0
+Pereira,29/06/2025,28.2
+Cúcuta,29/06/2025,21.1
+Santa Marta,29/06/2025,23.3
+Montería,29/06/2025,26.1
+Bogotá,30/06/2025,15.9
+Medellín,30/06/2025,32.1
+Sincelejo,30/06/2025,23.3
+Barranquilla,30/06/2025,22.7
+Cartagena,30/06/2025,30.7
+Bucaramanga,30/06/2025,27.7
+Pereira,30/06/2025,20.8
+Cúcuta,30/06/2025,17.9
+Santa Marta,30/06/2025,15.6
+Montería,30/06/2025,25.2
+Bogotá,01/07/2025,29.7
+Medellín,01/07/2025,25.6
+Sincelejo,01/07/2025,15.5
+Barranquilla,01/07/2025,27.7
+Cartagena,01/07/2025,32.5
+Bucaramanga,01/07/2025,30.8
+Pereira,01/07/2025,27.5
+Cúcuta,01/07/2025,25.6
+Santa Marta,01/07/2025,30.5
+Montería,01/07/2025,17.4
+Bogotá,02/07/2025,29.0
+Medellín,02/07/2025,33.8
+Sincelejo,02/07/2025,14.9
+Barranquilla,02/07/2025,21.3
+Cartagena,02/07/2025,26.6
+Bucaramanga,02/07/2025,33.1
+Pereira,02/07/2025,31.0
+Cúcuta,02/07/2025,21.0
+Santa Marta,02/07/2025,30.1
+Montería,02/07/2025,31.3
+Bogotá,03/07/2025,32.7
+Medellín,03/07/2025,29.8
+Sincelejo,03/07/2025,22.0
+Barranquilla,03/07/2025,23.4
+Cartagena,03/07/2025,16.3
+Bucaramanga,03/07/2025,18.1
+Pereira,03/07/2025,26.9
+Cúcuta,03/07/2025,25.3
+Santa Marta,03/07/2025,30.9
+Montería,03/07/2025,30.5
+Bogotá,04/07/2025,16.3
+Medellín,04/07/2025,17.2
+Sincelejo,04/07/2025,33.2
+Barranquilla,04/07/2025,29.6
+Cartagena,04/07/2025,28.9
+Bucaramanga,04/07/2025,31.5
+Pereira,04/07/2025,33.2
+Cúcuta,04/07/2025,14.8
+Santa Marta,04/07/2025,32.2
+Montería,04/07/2025,22.5
+Bogotá,05/07/2025,28.4
+Medellín,05/07/2025,18.2
+Sincelejo,05/07/2025,30.2
+Barranquilla,05/07/2025,34.4
+Cartagena,05/07/2025,18.3
+Bucaramanga,05/07/2025,22.8
+Pereira,05/07/2025,31.3
+Cúcuta,05/07/2025,33.1
+Santa Marta,05/07/2025,34.6
+Montería,05/07/2025,21.3
+Bogotá,06/07/2025,20.1
+Medellín,06/07/2025,34.8
+Sincelejo,06/07/2025,30.3
+Barranquilla,06/07/2025,26.7
+Cartagena,06/07/2025,17.6
+Bucaramanga,06/07/2025,23.5
+Pereira,06/07/2025,20.9
+Cúcuta,06/07/2025,26.5
+Santa Marta,06/07/2025,25.0
+Montería,06/07/2025,32.3
+Bogotá,07/07/2025,33.8
+Medellín,07/07/2025,24.9
+Sincelejo,07/07/2025,25.7
+Barranquilla,07/07/2025,15.9
+Cartagena,07/07/2025,18.1
+Bucaramanga,07/07/2025,32.1
+Pereira,07/07/2025,18.9
+Cúcuta,07/07/2025,17.6
+Santa Marta,07/07/2025,33.2
+Montería,07/07/2025,15.9
+Bogotá,08/07/2025,33.5
+Medellín,08/07/2025,26.0
+Sincelejo,08/07/2025,29.0
+Barranquilla,08/07/2025,16.4
+Cartagena,08/07/2025,19.9
+Bucaramanga,08/07/2025,16.8
+Pereira,08/07/2025,15.9
+Cúcuta,08/07/2025,19.8
+Santa Marta,08/07/2025,16.6
+Montería,08/07/2025,27.1
+Bogotá,09/07/2025,31.3
+Medellín,09/07/2025,23.5
+Sincelejo,09/07/2025,20.4
+Barranquilla,09/07/2025,16.1
+Cartagena,09/07/2025,16.8
+Bucaramanga,09/07/2025,21.8
+Pereira,09/07/2025,33.1
+Cúcuta,09/07/2025,31.1
+Santa Marta,09/07/2025,30.1
+Montería,09/07/2025,18.2
+Bogotá,10/07/2025,17.0
+Medellín,10/07/2025,26.4
+Sincelejo,10/07/2025,19.8
+Barranquilla,10/07/2025,34.1
+Cartagena,10/07/2025,18.1
+Bucaramanga,10/07/2025,21.3
+Pereira,10/07/2025,18.4
+Cúcuta,10/07/2025,33.0
+Santa Marta,10/07/2025,18.9
+Montería,10/07/2025,28.4
+Bogotá,11/07/2025,17.6
+Medellín,11/07/2025,20.5
+Sincelejo,11/07/2025,26.2
+Barranquilla,11/07/2025,32.8
+Cartagena,11/07/2025,21.3
+Bucaramanga,11/07/2025,15.4
+Pereira,11/07/2025,32.1
+Cúcuta,11/07/2025,23.3
+Santa Marta,11/07/2025,20.8
+Montería,11/07/2025,33.0
+Bogotá,12/07/2025,24.5
+Medellín,12/07/2025,16.8
+Sincelejo,12/07/2025,18.0
+Barranquilla,12/07/2025,33.7
+Cartagena,12/07/2025,32.9
+Bucaramanga,12/07/2025,35.0
+Pereira,12/07/2025,23.8
+Cúcuta,12/07/2025,24.4
+Santa Marta,12/07/2025,24.3
+Montería,12/07/2025,19.4
+Bogotá,13/07/2025,34.2
+Medellín,13/07/2025,34.9
+Sincelejo,13/07/2025,25.7
+Barranquilla,13/07/2025,18.1
+Cartagena,13/07/2025,23.2
+Bucaramanga,13/07/2025,26.0
+Pereira,13/07/2025,15.7
+Cúcuta,13/07/2025,26.4
+Santa Marta,13/07/2025,21.5
+Montería,13/07/2025,23.6
+Bogotá,14/07/2025,32.8
+Medellín,14/07/2025,33.6
+Sincelejo,14/07/2025,27.7
+Barranquilla,14/07/2025,26.0
+Cartagena,14/07/2025,24.1
+Bucaramanga,14/07/2025,20.1
+Pereira,14/07/2025,18.4
+Cúcuta,14/07/2025,32.1
+Santa Marta,14/07/2025,25.2
+Montería,14/07/2025,31.9
+Bogotá,15/07/2025,33.4
+Medellín,15/07/2025,26.0
+Sincelejo,15/07/2025,25.4
+Barranquilla,15/07/2025,30.3
+Cartagena,15/07/2025,20.0
+Bucaramanga,15/07/2025,15.2
+Pereira,15/07/2025,26.5
+Cúcuta,15/07/2025,33.1
+Santa Marta,15/07/2025,20.7
+Montería,15/07/2025,21.6
+Bogotá,16/07/2025,15.7
+Medellín,16/07/2025,26.7
+Sincelejo,16/07/2025,24.7
+Barranquilla,16/07/2025,28.5
+Cartagena,16/07/2025,28.6
+Bucaramanga,16/07/2025,26.2
+Pereira,16/07/2025,15.0
+Cúcuta,16/07/2025,24.2
+Santa Marta,16/07/2025,17.5
+Montería,16/07/2025,28.7
+Bogotá,17/07/2025,30.5
+Medellín,17/07/2025,29.8
+Sincelejo,17/07/2025,34.0
+Barranquilla,17/07/2025,26.4
+Cartagena,17/07/2025,21.7
+Bucaramanga,17/07/2025,19.8
+Pereira,17/07/2025,30.4
+Cúcuta,17/07/2025,30.7
+Santa Marta,17/07/2025,30.2
+Montería,17/07/2025,25.4
+Bogotá,18/07/2025,17.5
+Medellín,18/07/2025,32.5
+Sincelejo,18/07/2025,33.8
+Barranquilla,18/07/2025,21.4
+Cartagena,18/07/2025,31.7
+Bucaramanga,18/07/2025,25.8
+Pereira,18/07/2025,22.5
+Cúcuta,18/07/2025,25.7
+Santa Marta,18/07/2025,33.1
+Montería,18/07/2025,23.3
+Bogotá,19/07/2025,23.4
+Medellín,19/07/2025,28.3
+Sincelejo,19/07/2025,33.5
+Barranquilla,19/07/2025,34.2
+Cartagena,19/07/2025,17.5
+Bucaramanga,19/07/2025,25.3
+Pereira,19/07/2025,18.6
+Cúcuta,19/07/2025,27.5
+Santa Marta,19/07/2025,18.9
+Montería,19/07/2025,19.8
+Bogotá,20/07/2025,22.1
+Medellín,20/07/2025,34.0
+Sincelejo,20/07/2025,31.5
+Barranquilla,20/07/2025,29.1
+Cartagena,20/07/2025,34.7
+Bucaramanga,20/07/2025,18.8
+Pereira,20/07/2025,18.3
+Cúcuta,20/07/2025,29.8
+Santa Marta,20/07/2025,27.5
+Montería,20/07/2025,15.6
+Bogotá,21/07/2025,34.8
+Medellín,21/07/2025,21.3
+Sincelejo,21/07/2025,18.9
+Barranquilla,21/07/2025,25.5
+Cartagena,21/07/2025,22.7
+Bucaramanga,21/07/2025,18.0
+Pereira,21/07/2025,25.3
+Cúcuta,21/07/2025,34.5
+Santa Marta,21/07/2025,24.2
+Montería,21/07/2025,15.9
+Bogotá,22/07/2025,15.4
+Medellín,22/07/2025,22.4
+Sincelejo,22/07/2025,14.9
+Barranquilla,22/07/2025,34.3
+Cartagena,22/07/2025,22.5
+Bucaramanga,22/07/2025,27.5
+Pereira,22/07/2025,29.7
+Cúcuta,22/07/2025,24.4
+Santa Marta,22/07/2025,16.5
+Montería,22/07/2025,30.1
+Bogotá,23/07/2025,27.6
+Medellín,23/07/2025,28.4
+Sincelejo,23/07/2025,18.9
+Barranquilla,23/07/2025,25.2
+Cartagena,23/07/2025,31.2
+Bucaramanga,23/07/2025,15.5
+Pereira,23/07/2025,21.4
+Cúcuta,23/07/2025,19.3
+Santa Marta,23/07/2025,22.9
+Montería,23/07/2025,17.3
+Bogotá,24/07/2025,23.8
+Medellín,24/07/2025,20.5
+Sincelejo,24/07/2025,16.7
+Barranquilla,24/07/2025,29.6
+Cartagena,24/07/2025,31.5
+Bucaramanga,24/07/2025,16.6
+Pereira,24/07/2025,23.3
+Cúcuta,24/07/2025,32.3
+Santa Marta,24/07/2025,33.2
+Montería,24/07/2025,17.6
+Bogotá,25/07/2025,29.6
+Medellín,25/07/2025,26.2
+Sincelejo,25/07/2025,33.8
+Barranquilla,25/07/2025,19.3
+Cartagena,25/07/2025,16.5
+Bucaramanga,25/07/2025,32.0
+Pereira,25/07/2025,26.2
+Cúcuta,25/07/2025,21.2
+Santa Marta,25/07/2025,32.9
+Montería,25/07/2025,33.7
+Bogotá,26/07/2025,15.8
+Medellín,26/07/2025,35.0
+Sincelejo,26/07/2025,17.7
+Barranquilla,26/07/2025,23.6
+Cartagena,26/07/2025,25.9
+Bucaramanga,26/07/2025,23.6
+Pereira,26/07/2025,32.3
+Cúcuta,26/07/2025,28.3
+Santa Marta,26/07/2025,23.4
+Montería,26/07/2025,17.1
+Bogotá,27/07/2025,33.5
+Medellín,27/07/2025,21.2
+Sincelejo,27/07/2025,33.0
+Barranquilla,27/07/2025,25.4
+Cartagena,27/07/2025,16.0
+Bucaramanga,27/07/2025,25.0
+Pereira,27/07/2025,32.6
+Cúcuta,27/07/2025,31.5
+Santa Marta,27/07/2025,27.7
+Montería,27/07/2025,15.8
+Bogotá,28/07/2025,34.3
+Medellín,28/07/2025,28.3
+Sincelejo,28/07/2025,27.3
+Barranquilla,28/07/2025,17.5
+Cartagena,28/07/2025,19.9
+Bucaramanga,28/07/2025,33.2
+Pereira,28/07/2025,17.1
+Cúcuta,28/07/2025,31.8
+Santa Marta,28/07/2025,17.4
+Montería,28/07/2025,18.9
+Bogotá,29/07/2025,22.6
+Medellín,29/07/2025,34.7
+Sincelejo,29/07/2025,34.2
+Barranquilla,29/07/2025,17.5
+Cartagena,29/07/2025,15.3
+Bucaramanga,29/07/2025,31.3
+Pereira,29/07/2025,33.4
+Cúcuta,29/07/2025,18.1
+Santa Marta,29/07/2025,22.2
+Montería,29/07/2025,28.6
+Bogotá,30/07/2025,30.5
+Medellín,30/07/2025,23.7
+Sincelejo,30/07/2025,15.5
+Barranquilla,30/07/2025,15.3
+Cartagena,30/07/2025,17.8
+Bucaramanga,30/07/2025,19.2
+Pereira,30/07/2025,25.8
+Cúcuta,30/07/2025,17.8
+Santa Marta,30/07/2025,27.1
+Montería,30/07/2025,24.7
+Bogotá,31/07/2025,30.1
+Medellín,31/07/2025,20.9
+Sincelejo,31/07/2025,21.1
+Barranquilla,31/07/2025,22.2
+Cartagena,31/07/2025,22.6
+Bucaramanga,31/07/2025,22.4
+Pereira,31/07/2025,18.8
+Cúcuta,31/07/2025,33.2
+Santa Marta,31/07/2025,28.5
+Montería,31/07/2025,31.4
+Bogotá,01/08/2025,28.3
+Medellín,01/08/2025,32.2
+Sincelejo,01/08/2025,33.4
+Barranquilla,01/08/2025,28.8
+Cartagena,01/08/2025,28.7
+Bucaramanga,01/08/2025,26.6
+Pereira,01/08/2025,20.3
+Cúcuta,01/08/2025,32.9
+Santa Marta,01/08/2025,26.9
+Montería,01/08/2025,26.8
+Bogotá,02/08/2025,34.3
+Medellín,02/08/2025,23.0
+Sincelejo,02/08/2025,25.9
+Barranquilla,02/08/2025,17.5
+Cartagena,02/08/2025,23.3
+Bucaramanga,02/08/2025,14.7
+Pereira,02/08/2025,27.3
+Cúcuta,02/08/2025,15.9
+Santa Marta,02/08/2025,32.1
+Montería,02/08/2025,20.2
+Bogotá,03/08/2025,21.0
+Medellín,03/08/2025,27.8
+Sincelejo,03/08/2025,22.7
+Barranquilla,03/08/2025,26.4
+Cartagena,03/08/2025,25.3
+Bucaramanga,03/08/2025,24.5
+Pereira,03/08/2025,21.2
+Cúcuta,03/08/2025,28.0
+Santa Marta,03/08/2025,18.9
+Montería,03/08/2025,32.5
+Bogotá,04/08/2025,22.9
+Medellín,04/08/2025,27.4
+Sincelejo,04/08/2025,26.5
+Barranquilla,04/08/2025,15.0
+Cartagena,04/08/2025,27.0
+Bucaramanga,04/08/2025,21.9
+Pereira,04/08/2025,20.6
+Cúcuta,04/08/2025,17.9
+Santa Marta,04/08/2025,23.0
+Montería,04/08/2025,20.0
+Bogotá,05/08/2025,25.7
+Medellín,05/08/2025,20.1
+Sincelejo,05/08/2025,23.8
+Barranquilla,05/08/2025,26.1
+Cartagena,05/08/2025,29.0
+Bucaramanga,05/08/2025,20.5
+Pereira,05/08/2025,27.8
+Cúcuta,05/08/2025,18.4
+Santa Marta,05/08/2025,30.1
+Montería,05/08/2025,22.9
+Bogotá,06/08/2025,16.2
+Medellín,06/08/2025,19.0
+Sincelejo,06/08/2025,27.8
+Barranquilla,06/08/2025,27.7
+Cartagena,06/08/2025,29.3
+Bucaramanga,06/08/2025,15.7
+Pereira,06/08/2025,26.4
+Cúcuta,06/08/2025,30.6
+Santa Marta,06/08/2025,30.7
+Montería,06/08/2025,27.7
+Bogotá,07/08/2025,23.5
+Medellín,07/08/2025,23.6
+Sincelejo,07/08/2025,18.8
+Barranquilla,07/08/2025,29.7
+Cartagena,07/08/2025,15.4
+Bucaramanga,07/08/2025,32.1
+Pereira,07/08/2025,20.8
+Cúcuta,07/08/2025,21.1
+Santa Marta,07/08/2025,34.6
+Montería,07/08/2025,25.6
+Bogotá,08/08/2025,32.4
+Medellín,08/08/2025,28.0
+Sincelejo,08/08/2025,34.7
+Barranquilla,08/08/2025,32.0
+Cartagena,08/08/2025,18.2
+Bucaramanga,08/08/2025,27.2
+Pereira,08/08/2025,17.9
+Cúcuta,08/08/2025,31.0
+Santa Marta,08/08/2025,16.2
+Montería,08/08/2025,18.0
+Bogotá,09/08/2025,30.6
+Medellín,09/08/2025,16.2
+Sincelejo,09/08/2025,21.3
+Barranquilla,09/08/2025,34.2
+Cartagena,09/08/2025,25.6
+Bucaramanga,09/08/2025,15.9
+Pereira,09/08/2025,31.2
+Cúcuta,09/08/2025,18.2
+Santa Marta,09/08/2025,15.9
+Montería,09/08/2025,30.9
+Bogotá,10/08/2025,25.6
+Medellín,10/08/2025,19.7
+Sincelejo,10/08/2025,31.6
+Barranquilla,10/08/2025,20.3
+Cartagena,10/08/2025,18.8
+Bucaramanga,10/08/2025,25.4
+Pereira,10/08/2025,32.2
+Cúcuta,10/08/2025,16.3
+Santa Marta,10/08/2025,31.5
+Montería,10/08/2025,20.3
+Bogotá,11/08/2025,34.2
+Medellín,11/08/2025,34.6
+Sincelejo,11/08/2025,24.4
+Barranquilla,11/08/2025,28.3
+Cartagena,11/08/2025,22.0
+Bucaramanga,11/08/2025,33.6
+Pereira,11/08/2025,26.6
+Cúcuta,11/08/2025,19.8
+Santa Marta,11/08/2025,20.5
+Montería,11/08/2025,17.0
+Bogotá,12/08/2025,29.8
+Medellín,12/08/2025,33.3
+Sincelejo,12/08/2025,18.4
+Barranquilla,12/08/2025,31.5
+Cartagena,12/08/2025,21.6
+Bucaramanga,12/08/2025,29.6
+Pereira,12/08/2025,33.2
+Cúcuta,12/08/2025,22.6
+Santa Marta,12/08/2025,15.7
+Montería,12/08/2025,20.1
+Bogotá,13/08/2025,23.7
+Medellín,13/08/2025,20.4
+Sincelejo,13/08/2025,34.2
+Barranquilla,13/08/2025,23.9
+Cartagena,13/08/2025,32.1
+Bucaramanga,13/08/2025,16.5
+Pereira,13/08/2025,32.1
+Cúcuta,13/08/2025,30.4
+Santa Marta,13/08/2025,25.4
+Montería,13/08/2025,31.0
+Bogotá,14/08/2025,31.3
+Medellín,14/08/2025,28.0
+Sincelejo,14/08/2025,23.2
+Barranquilla,14/08/2025,21.0
+Cartagena,14/08/2025,29.7
+Bucaramanga,14/08/2025,19.5
+Pereira,14/08/2025,21.2
+Cúcuta,14/08/2025,22.4
+Santa Marta,14/08/2025,32.4
+Montería,14/08/2025,33.2
+Bogotá,15/08/2025,17.6
+Medellín,15/08/2025,22.2
+Sincelejo,15/08/2025,32.8
+Barranquilla,15/08/2025,20.5
+Cartagena,15/08/2025,27.4
+Bucaramanga,15/08/2025,29.3
+Pereira,15/08/2025,28.7
+Cúcuta,15/08/2025,30.2
+Santa Marta,15/08/2025,20.1
+Montería,15/08/2025,24.5
+Bogotá,16/08/2025,16.4
+Medellín,16/08/2025,32.5
+Sincelejo,16/08/2025,21.7
+Barranquilla,16/08/2025,22.4
+Cartagena,16/08/2025,23.6
+Bucaramanga,16/08/2025,33.2
+Pereira,16/08/2025,33.8
+Cúcuta,16/08/2025,31.5
+Santa Marta,16/08/2025,16.7
+Montería,16/08/2025,23.4
+Bogotá,17/08/2025,14.9
+Medellín,17/08/2025,34.8
+Sincelejo,17/08/2025,20.5
+Barranquilla,17/08/2025,20.0
+Cartagena,17/08/2025,33.7
+Bucaramanga,17/08/2025,31.8
+Pereira,17/08/2025,30.1
+Cúcuta,17/08/2025,19.4
+Santa Marta,17/08/2025,25.8
+Montería,17/08/2025,26.5
+Bogotá,18/08/2025,31.9
+Medellín,18/08/2025,32.6
+Sincelejo,18/08/2025,20.5
+Barranquilla,18/08/2025,26.6
+Cartagena,18/08/2025,33.9
+Bucaramanga,18/08/2025,22.7
+Pereira,18/08/2025,33.9
+Cúcuta,18/08/2025,25.6
+Santa Marta,18/08/2025,26.6
+Montería,18/08/2025,26.1
+Bogotá,19/08/2025,26.0
+Medellín,19/08/2025,19.6
+Sincelejo,19/08/2025,24.9
+Barranquilla,19/08/2025,16.8
+Cartagena,19/08/2025,26.0
+Bucaramanga,19/08/2025,26.6
+Pereira,19/08/2025,17.1
+Cúcuta,19/08/2025,20.1
+Santa Marta,19/08/2025,23.8
+Montería,19/08/2025,19.2
+Bogotá,20/08/2025,27.5
+Medellín,20/08/2025,28.6
+Sincelejo,20/08/2025,25.9
+Barranquilla,20/08/2025,18.3
+Cartagena,20/08/2025,34.6
+Bucaramanga,20/08/2025,32.5
+Pereira,20/08/2025,18.7
+Cúcuta,20/08/2025,25.0
+Santa Marta,20/08/2025,21.4
+Montería,20/08/2025,24.3
+Bogotá,21/08/2025,29.8
+Medellín,21/08/2025,22.5
+Sincelejo,21/08/2025,34.9
+Barranquilla,21/08/2025,30.7
+Cartagena,21/08/2025,27.1
+Bucaramanga,21/08/2025,17.2
+Pereira,21/08/2025,30.8
+Cúcuta,21/08/2025,26.1
+Santa Marta,21/08/2025,31.7
+Montería,21/08/2025,23.9
+Bogotá,22/08/2025,21.7
+Medellín,22/08/2025,34.4
+Sincelejo,22/08/2025,25.6
+Barranquilla,22/08/2025,33.0
+Cartagena,22/08/2025,21.1
+Bucaramanga,22/08/2025,27.1
+Pereira,22/08/2025,23.2
+Cúcuta,22/08/2025,29.6
+Santa Marta,22/08/2025,31.4
+Montería,22/08/2025,25.4
+Bogotá,23/08/2025,27.2
+Medellín,23/08/2025,21.1
+Sincelejo,23/08/2025,24.9
+Barranquilla,23/08/2025,25.6
+Cartagena,23/08/2025,25.5
+Bucaramanga,23/08/2025,15.4
+Pereira,23/08/2025,16.2
+Cúcuta,23/08/2025,30.4
+Santa Marta,23/08/2025,25.1
+Montería,23/08/2025,15.7
+Bogotá,24/08/2025,33.7
+Medellín,24/08/2025,15.8
+Sincelejo,24/08/2025,33.8
+Barranquilla,24/08/2025,26.7
+Cartagena,24/08/2025,15.5
+Bucaramanga,24/08/2025,17.8
+Pereira,24/08/2025,35.0
+Cúcuta,24/08/2025,22.0
+Santa Marta,24/08/2025,30.6
+Montería,24/08/2025,26.2
+Bogotá,25/08/2025,19.2
+Medellín,25/08/2025,34.5
+Sincelejo,25/08/2025,19.4
+Barranquilla,25/08/2025,28.2
+Cartagena,25/08/2025,28.3
+Bucaramanga,25/08/2025,21.5
+Pereira,25/08/2025,31.1
+Cúcuta,25/08/2025,16.4
+Santa Marta,25/08/2025,31.4
+Montería,25/08/2025,18.6
+Bogotá,26/08/2025,15.3
+Medellín,26/08/2025,22.8
+Sincelejo,26/08/2025,24.2
+Barranquilla,26/08/2025,30.8
+Cartagena,26/08/2025,15.9
+Bucaramanga,26/08/2025,31.4
+Pereira,26/08/2025,17.2
+Cúcuta,26/08/2025,14.9
+Santa Marta,26/08/2025,26.3
+Montería,26/08/2025,25.1
+Bogotá,27/08/2025,31.1
+Medellín,27/08/2025,31.9
+Sincelejo,27/08/2025,26.6
+Barranquilla,27/08/2025,23.2
+Cartagena,27/08/2025,16.7
+Bucaramanga,27/08/2025,33.3
+Pereira,27/08/2025,28.7
+Cúcuta,27/08/2025,15.3
+Santa Marta,27/08/2025,26.6
+Montería,27/08/2025,22.5
+Bogotá,28/08/2025,21.0
+Medellín,28/08/2025,31.4
+Sincelejo,28/08/2025,19.9
+Barranquilla,28/08/2025,22.8
+Cartagena,28/08/2025,17.3
+Bucaramanga,28/08/2025,15.6
+Pereira,28/08/2025,21.8
+Cúcuta,28/08/2025,16.2
+Santa Marta,28/08/2025,23.4
+Montería,28/08/2025,24.9
+Bogotá,29/08/2025,33.1
+Medellín,29/08/2025,19.2
+Sincelejo,29/08/2025,17.2
+Barranquilla,29/08/2025,30.4
+Cartagena,29/08/2025,26.5
+Bucaramanga,29/08/2025,22.3
+Pereira,29/08/2025,25.0
+Cúcuta,29/08/2025,16.6
+Santa Marta,29/08/2025,17.1
+Montería,29/08/2025,17.7
+Bogotá,30/08/2025,29.9
+Medellín,30/08/2025,25.8
+Sincelejo,30/08/2025,17.0
+Barranquilla,30/08/2025,16.4
+Cartagena,30/08/2025,18.7
+Bucaramanga,30/08/2025,25.8
+Pereira,30/08/2025,33.6
+Cúcuta,30/08/2025,25.2
+Santa Marta,30/08/2025,20.9
+Montería,30/08/2025,34.0
+Bogotá,31/08/2025,28.9
+Medellín,31/08/2025,30.9
+Sincelejo,31/08/2025,30.0
+Barranquilla,31/08/2025,33.6
+Cartagena,31/08/2025,17.9
+Bucaramanga,31/08/2025,18.3
+Pereira,31/08/2025,15.7
+Cúcuta,31/08/2025,25.7
+Santa Marta,31/08/2025,35.0
+Montería,31/08/2025,29.6
+Bogotá,01/09/2025,23.8
+Medellín,01/09/2025,21.8
+Sincelejo,01/09/2025,31.4
+Barranquilla,01/09/2025,26.8
+Cartagena,01/09/2025,32.6
+Bucaramanga,01/09/2025,19.3
+Pereira,01/09/2025,18.1
+Cúcuta,01/09/2025,26.2
+Santa Marta,01/09/2025,29.9
+Montería,01/09/2025,17.2
+Bogotá,02/09/2025,28.2
+Medellín,02/09/2025,29.5
+Sincelejo,02/09/2025,26.9
+Barranquilla,02/09/2025,29.6
+Cartagena,02/09/2025,33.2
+Bucaramanga,02/09/2025,24.8
+Pereira,02/09/2025,18.2
+Cúcuta,02/09/2025,19.6
+Santa Marta,02/09/2025,29.6
+Montería,02/09/2025,19.2
+Bogotá,03/09/2025,18.5
+Medellín,03/09/2025,21.3
+Sincelejo,03/09/2025,23.1
+Barranquilla,03/09/2025,27.1
+Cartagena,03/09/2025,33.1
+Bucaramanga,03/09/2025,16.3
+Pereira,03/09/2025,20.5
+Cúcuta,03/09/2025,31.2
+Santa Marta,03/09/2025,31.6
+Montería,03/09/2025,26.1
+Bogotá,04/09/2025,17.3
+Medellín,04/09/2025,18.6
+Sincelejo,04/09/2025,29.1
+Barranquilla,04/09/2025,29.9
+Cartagena,04/09/2025,25.7
+Bucaramanga,04/09/2025,16.1
+Pereira,04/09/2025,18.0
+Cúcuta,04/09/2025,15.4
+Santa Marta,04/09/2025,20.0
+Montería,04/09/2025,27.3
+Bogotá,05/09/2025,24.9
+Medellín,05/09/2025,26.6
+Sincelejo,05/09/2025,19.2
+Barranquilla,05/09/2025,21.4
+Cartagena,05/09/2025,19.0
+Bucaramanga,05/09/2025,22.7
+Pereira,05/09/2025,33.8
+Cúcuta,05/09/2025,28.0
+Santa Marta,05/09/2025,30.0
+Montería,05/09/2025,23.6
+Bogotá,06/09/2025,30.5
+Medellín,06/09/2025,15.9
+Sincelejo,06/09/2025,32.4
+Barranquilla,06/09/2025,26.8
+Cartagena,06/09/2025,34.6
+Bucaramanga,06/09/2025,30.4
+Pereira,06/09/2025,23.0
+Cúcuta,06/09/2025,28.0
+Santa Marta,06/09/2025,25.4
+Montería,06/09/2025,23.1
+Bogotá,07/09/2025,17.5
+Medellín,07/09/2025,16.6
+Sincelejo,07/09/2025,34.5
+Barranquilla,07/09/2025,31.4
+Cartagena,07/09/2025,31.9
+Bucaramanga,07/09/2025,19.9
+Pereira,07/09/2025,17.2
+Cúcuta,07/09/2025,29.0
+Santa Marta,07/09/2025,22.7
+Montería,07/09/2025,25.1
+Bogotá,08/09/2025,29.1
+Medellín,08/09/2025,24.9
+Sincelejo,08/09/2025,32.4
+Barranquilla,08/09/2025,20.8
+Cartagena,08/09/2025,23.9
+Bucaramanga,08/09/2025,33.8
+Pereira,08/09/2025,29.3
+Cúcuta,08/09/2025,25.1
+Santa Marta,08/09/2025,27.9
+Montería,08/09/2025,27.0
+Bogotá,09/09/2025,27.8
+Medellín,09/09/2025,28.7
+Sincelejo,09/09/2025,26.0
+Barranquilla,09/09/2025,18.1
+Cartagena,09/09/2025,33.3
+Bucaramanga,09/09/2025,30.4
+Pereira,09/09/2025,33.1
+Cúcuta,09/09/2025,32.5
+Santa Marta,09/09/2025,34.3
+Montería,09/09/2025,25.6
+Bogotá,10/09/2025,20.4
+Medellín,10/09/2025,23.0
+Sincelejo,10/09/2025,31.0
+Barranquilla,10/09/2025,21.7
+Cartagena,10/09/2025,21.1
+Bucaramanga,10/09/2025,24.4
+Pereira,10/09/2025,28.3
+Cúcuta,10/09/2025,31.1
+Santa Marta,10/09/2025,16.9
+Montería,10/09/2025,19.7
+Bogotá,11/09/2025,21.0
+Medellín,11/09/2025,34.4
+Sincelejo,11/09/2025,26.8
+Barranquilla,11/09/2025,21.9
+Cartagena,11/09/2025,21.9
+Bucaramanga,11/09/2025,22.7
+Pereira,11/09/2025,18.7
+Cúcuta,11/09/2025,22.2
+Santa Marta,11/09/2025,17.9
+Montería,11/09/2025,24.2
+Bogotá,12/09/2025,17.4
+Medellín,12/09/2025,23.5
+Sincelejo,12/09/2025,34.6
+Barranquilla,12/09/2025,15.8
+Cartagena,12/09/2025,18.7
+Bucaramanga,12/09/2025,19.6
+Pereira,12/09/2025,23.4
+Cúcuta,12/09/2025,24.2
+Santa Marta,12/09/2025,34.1
+Montería,12/09/2025,30.5
+Bogotá,13/09/2025,31.7
+Medellín,13/09/2025,20.2
+Sincelejo,13/09/2025,19.2
+Barranquilla,13/09/2025,31.7
+Cartagena,13/09/2025,21.2
+Bucaramanga,13/09/2025,20.5
+Pereira,13/09/2025,16.4
+Cúcuta,13/09/2025,26.8
+Santa Marta,13/09/2025,25.9
+Montería,13/09/2025,26.6
+Bogotá,14/09/2025,24.7
+Medellín,14/09/2025,17.7
+Sincelejo,14/09/2025,31.5
+Barranquilla,14/09/2025,15.2
+Cartagena,14/09/2025,34.5
+Bucaramanga,14/09/2025,28.4
+Pereira,14/09/2025,23.9
+Cúcuta,14/09/2025,15.5
+Santa Marta,14/09/2025,23.4
+Montería,14/09/2025,31.6
+Bogotá,15/09/2025,21.9
+Medellín,15/09/2025,27.6
+Sincelejo,15/09/2025,19.9
+Barranquilla,15/09/2025,19.4
+Cartagena,15/09/2025,26.4
+Bucaramanga,15/09/2025,19.8
+Pereira,15/09/2025,28.7
+Cúcuta,15/09/2025,20.6
+Santa Marta,15/09/2025,26.9
+Montería,15/09/2025,22.6
+Bogotá,16/09/2025,25.6
+Medellín,16/09/2025,24.2
+Sincelejo,16/09/2025,27.5
+Barranquilla,16/09/2025,23.5
+Cartagena,16/09/2025,19.5
+Bucaramanga,16/09/2025,34.2
+Pereira,16/09/2025,28.2
+Cúcuta,16/09/2025,16.4
+Santa Marta,16/09/2025,29.6
+Montería,16/09/2025,32.7
+Bogotá,17/09/2025,28.4
+Medellín,17/09/2025,23.1
+Sincelejo,17/09/2025,24.4
+Barranquilla,17/09/2025,32.8
+Cartagena,17/09/2025,23.1
+Bucaramanga,17/09/2025,24.9
+Pereira,17/09/2025,35.1
+Cúcuta,17/09/2025,23.5
+Santa Marta,17/09/2025,18.9
+Montería,17/09/2025,29.7
+Bogotá,18/09/2025,25.5
+Medellín,18/09/2025,26.9
+Sincelejo,18/09/2025,30.2
+Barranquilla,18/09/2025,30.2
+Cartagena,18/09/2025,35.0
+Bucaramanga,18/09/2025,32.8
+Pereira,18/09/2025,19.6
+Cúcuta,18/09/2025,33.7
+Santa Marta,18/09/2025,25.8
+Montería,18/09/2025,17.3
+Bogotá,19/09/2025,25.7
+Medellín,19/09/2025,28.6
+Sincelejo,19/09/2025,16.1
+Barranquilla,19/09/2025,28.5
+Cartagena,19/09/2025,27.1
+Bucaramanga,19/09/2025,17.7
+Pereira,19/09/2025,34.2
+Cúcuta,19/09/2025,32.0
+Santa Marta,19/09/2025,27.6
+Montería,19/09/2025,21.4
+Bogotá,20/09/2025,32.0
+Medellín,20/09/2025,29.1
+Sincelejo,20/09/2025,21.8
+Barranquilla,20/09/2025,32.3
+Cartagena,20/09/2025,19.1
+Bucaramanga,20/09/2025,29.2
+Pereira,20/09/2025,24.2
+Cúcuta,20/09/2025,15.5
+Santa Marta,20/09/2025,24.1
+Montería,20/09/2025,18.1
+Bogotá,21/09/2025,23.4
+Medellín,21/09/2025,19.0
+Sincelejo,21/09/2025,31.7
+Barranquilla,21/09/2025,30.3
+Cartagena,21/09/2025,30.3
+Bucaramanga,21/09/2025,33.1
+Pereira,21/09/2025,27.4
+Cúcuta,21/09/2025,32.9
+Santa Marta,21/09/2025,14.8
+Montería,21/09/2025,23.4
+Bogotá,22/09/2025,17.3
+Medellín,22/09/2025,31.2
+Sincelejo,22/09/2025,33.5
+Barranquilla,22/09/2025,16.6
+Cartagena,22/09/2025,18.3
+Bucaramanga,22/09/2025,23.2
+Pereira,22/09/2025,23.4
+Cúcuta,22/09/2025,24.0
+Santa Marta,22/09/2025,31.4
+Montería,22/09/2025,21.4
+Bogotá,23/09/2025,20.1
+Medellín,23/09/2025,20.8
+Sincelejo,23/09/2025,15.4
+Barranquilla,23/09/2025,26.1
+Cartagena,23/09/2025,32.4
+Bucaramanga,23/09/2025,21.0
+Pereira,23/09/2025,17.3
+Cúcuta,23/09/2025,16.8
+Santa Marta,23/09/2025,19.7
+Montería,23/09/2025,20.3
+Bogotá,24/09/2025,29.0
+Medellín,24/09/2025,20.8
+Sincelejo,24/09/2025,15.3
+Barranquilla,24/09/2025,23.6
+Cartagena,24/09/2025,28.7
+Bucaramanga,24/09/2025,27.8
+Pereira,24/09/2025,24.7
+Cúcuta,24/09/2025,29.7
+Santa Marta,24/09/2025,19.1
+Montería,24/09/2025,26.7
+Bogotá,25/09/2025,23.9
+Medellín,25/09/2025,28.3
+Sincelejo,25/09/2025,21.1
+Barranquilla,25/09/2025,25.2
+Cartagena,25/09/2025,34.0
+Bucaramanga,25/09/2025,34.6
+Pereira,25/09/2025,23.2
+Cúcuta,25/09/2025,25.2
+Santa Marta,25/09/2025,18.1
+Montería,25/09/2025,17.1
+Bogotá,26/09/2025,21.9
+Medellín,26/09/2025,17.4
+Sincelejo,26/09/2025,32.8
+Barranquilla,26/09/2025,25.6
+Cartagena,26/09/2025,17.9
+Bucaramanga,26/09/2025,27.8
+Pereira,26/09/2025,26.9
+Cúcuta,26/09/2025,32.8
+Santa Marta,26/09/2025,26.9
+Montería,26/09/2025,29.4
+Bogotá,27/09/2025,22.0
+Medellín,27/09/2025,20.6
+Sincelejo,27/09/2025,25.9
+Barranquilla,27/09/2025,19.2
+Cartagena,27/09/2025,32.5
+Bucaramanga,27/09/2025,22.9
+Pereira,27/09/2025,15.0
+Cúcuta,27/09/2025,27.1
+Santa Marta,27/09/2025,28.7
+Montería,27/09/2025,19.2
+Bogotá,28/09/2025,25.1
+Medellín,28/09/2025,26.6
+Sincelejo,28/09/2025,23.2
+Barranquilla,28/09/2025,28.3
+Cartagena,28/09/2025,27.3
+Bucaramanga,28/09/2025,29.5
+Pereira,28/09/2025,20.2
+Cúcuta,28/09/2025,24.0
+Santa Marta,28/09/2025,34.6
+Montería,28/09/2025,29.7
+Bogotá,29/09/2025,31.2
+Medellín,29/09/2025,31.1
+Sincelejo,29/09/2025,17.3
+Barranquilla,29/09/2025,33.7
+Cartagena,29/09/2025,27.7
+Bucaramanga,29/09/2025,23.4
+Pereira,29/09/2025,23.9
+Cúcuta,29/09/2025,20.3
+Santa Marta,29/09/2025,15.2
+Montería,29/09/2025,27.0
+Bogotá,30/09/2025,33.2
+Medellín,30/09/2025,26.8
+Sincelejo,30/09/2025,29.8
+Barranquilla,30/09/2025,34.1
+Cartagena,30/09/2025,35.0
+Bucaramanga,30/09/2025,17.7
+Pereira,30/09/2025,23.7
+Cúcuta,30/09/2025,24.1
+Santa Marta,30/09/2025,16.8
+Montería,30/09/2025,17.6
+Bogotá,01/10/2025,26.3
+Medellín,01/10/2025,16.9
+Sincelejo,01/10/2025,25.8
+Barranquilla,01/10/2025,31.8
+Cartagena,01/10/2025,15.0
+Bucaramanga,01/10/2025,34.6
+Pereira,01/10/2025,20.4
+Cúcuta,01/10/2025,32.9
+Santa Marta,01/10/2025,21.6
+Montería,01/10/2025,22.0
+Bogotá,02/10/2025,29.2
+Medellín,02/10/2025,34.7
+Sincelejo,02/10/2025,30.3
+Barranquilla,02/10/2025,33.4
+Cartagena,02/10/2025,29.4
+Bucaramanga,02/10/2025,25.5
+Pereira,02/10/2025,24.2
+Cúcuta,02/10/2025,29.6
+Santa Marta,02/10/2025,16.1
+Montería,02/10/2025,26.7
+Bogotá,03/10/2025,29.5
+Medellín,03/10/2025,27.2
+Sincelejo,03/10/2025,28.5
+Barranquilla,03/10/2025,27.1
+Cartagena,03/10/2025,21.2
+Bucaramanga,03/10/2025,26.3
+Pereira,03/10/2025,18.2
+Cúcuta,03/10/2025,31.3
+Santa Marta,03/10/2025,19.7
+Montería,03/10/2025,17.9
+Bogotá,04/10/2025,32.3
+Medellín,04/10/2025,31.8
+Sincelejo,04/10/2025,19.1
+Barranquilla,04/10/2025,31.5
+Cartagena,04/10/2025,34.6
+Bucaramanga,04/10/2025,23.8
+Pereira,04/10/2025,20.2
+Cúcuta,04/10/2025,31.3
+Santa Marta,04/10/2025,19.4
+Montería,04/10/2025,32.1
+Bogotá,05/10/2025,26.4
+Medellín,05/10/2025,17.3
+Sincelejo,05/10/2025,25.8
+Barranquilla,05/10/2025,30.9
+Cartagena,05/10/2025,21.9
+Bucaramanga,05/10/2025,28.9
+Pereira,05/10/2025,27.0
+Cúcuta,05/10/2025,17.8
+Santa Marta,05/10/2025,27.7
+Montería,05/10/2025,33.5
+Bogotá,06/10/2025,25.6
+Medellín,06/10/2025,26.7
+Sincelejo,06/10/2025,29.7
+Barranquilla,06/10/2025,15.4
+Cartagena,06/10/2025,30.3
+Bucaramanga,06/10/2025,25.2
+Pereira,06/10/2025,24.9
+Cúcuta,06/10/2025,33.8
+Santa Marta,06/10/2025,19.8
+Montería,06/10/2025,25.6
+Bogotá,07/10/2025,20.6
+Medellín,07/10/2025,32.1
+Sincelejo,07/10/2025,23.0
+Barranquilla,07/10/2025,25.3
+Cartagena,07/10/2025,22.0
+Bucaramanga,07/10/2025,29.0
+Pereira,07/10/2025,22.9
+Cúcuta,07/10/2025,31.5
+Santa Marta,07/10/2025,16.4
+Montería,07/10/2025,33.3
+Bogotá,08/10/2025,23.7
+Medellín,08/10/2025,30.9
+Sincelejo,08/10/2025,34.6
+Barranquilla,08/10/2025,26.2
+Cartagena,08/10/2025,32.1
+Bucaramanga,08/10/2025,21.7
+Pereira,08/10/2025,32.0
+Cúcuta,08/10/2025,28.1
+Santa Marta,08/10/2025,29.0
+Montería,08/10/2025,28.5
+Bogotá,09/10/2025,21.6
+Medellín,09/10/2025,34.7
+Sincelejo,09/10/2025,31.6
+Barranquilla,09/10/2025,31.6
+Cartagena,09/10/2025,21.5
+Bucaramanga,09/10/2025,17.9
+Pereira,09/10/2025,26.3
+Cúcuta,09/10/2025,16.1
+Santa Marta,09/10/2025,34.9
+Montería,09/10/2025,27.8
+Bogotá,10/10/2025,27.7
+Medellín,10/10/2025,31.7
+Sincelejo,10/10/2025,18.2
+Barranquilla,10/10/2025,23.6
+Cartagena,10/10/2025,23.7
+Bucaramanga,10/10/2025,18.9
+Pereira,10/10/2025,24.8
+Cúcuta,10/10/2025,24.6
+Santa Marta,10/10/2025,31.2
+Montería,10/10/2025,30.1
+Bogotá,11/10/2025,15.5
+Medellín,11/10/2025,25.8
+Sincelejo,11/10/2025,26.9
+Barranquilla,11/10/2025,29.2
+Cartagena,11/10/2025,30.5
+Bucaramanga,11/10/2025,31.6
+Pereira,11/10/2025,33.5
+Cúcuta,11/10/2025,23.4
+Santa Marta,11/10/2025,17.8
+Montería,11/10/2025,27.8
+Bogotá,12/10/2025,22.6
+Medellín,12/10/2025,34.6
+Sincelejo,12/10/2025,17.6
+Barranquilla,12/10/2025,23.7
+Cartagena,12/10/2025,25.5
+Bucaramanga,12/10/2025,17.3
+Pereira,12/10/2025,34.0
+Cúcuta,12/10/2025,30.5
+Santa Marta,12/10/2025,24.3
+Montería,12/10/2025,17.0
+Bogotá,13/10/2025,23.0
+Medellín,13/10/2025,21.1
+Sincelejo,13/10/2025,26.5
+Barranquilla,13/10/2025,19.8
+Cartagena,13/10/2025,25.3
+Bucaramanga,13/10/2025,32.6
+Pereira,13/10/2025,28.4
+Cúcuta,13/10/2025,17.4
+Santa Marta,13/10/2025,29.8
+Montería,13/10/2025,23.3
+Bogotá,14/10/2025,32.7
+Medellín,14/10/2025,35.2
+Sincelejo,14/10/2025,21.7
+Barranquilla,14/10/2025,18.5
+Cartagena,14/10/2025,21.2
+Bucaramanga,14/10/2025,30.5
+Pereira,14/10/2025,28.8
+Cúcuta,14/10/2025,30.5
+Santa Marta,14/10/2025,23.9
+Montería,14/10/2025,26.2
+Bogotá,15/10/2025,17.9
+Medellín,15/10/2025,24.4
+Sincelejo,15/10/2025,30.0
+Barranquilla,15/10/2025,29.2
+Cartagena,15/10/2025,22.9
+Bucaramanga,15/10/2025,20.7
+Pereira,15/10/2025,26.4
+Cúcuta,15/10/2025,31.1
+Santa Marta,15/10/2025,33.7
+Montería,15/10/2025,24.5
+Bogotá,16/10/2025,34.0
+Medellín,16/10/2025,27.4
+Sincelejo,16/10/2025,26.0
+Barranquilla,16/10/2025,18.0
+Cartagena,16/10/2025,26.4
+Bucaramanga,16/10/2025,18.5
+Pereira,16/10/2025,27.3
+Cúcuta,16/10/2025,27.9
+Santa Marta,16/10/2025,34.5
+Montería,16/10/2025,31.7
+Bogotá,17/10/2025,16.4
+Medellín,17/10/2025,19.4
+Sincelejo,17/10/2025,17.1
+Barranquilla,17/10/2025,26.0
+Cartagena,17/10/2025,25.0
+Bucaramanga,17/10/2025,16.6
+Pereira,17/10/2025,30.8
+Cúcuta,17/10/2025,21.7
+Santa Marta,17/10/2025,25.8
+Montería,17/10/2025,28.3
+Bogotá,18/10/2025,17.3
+Medellín,18/10/2025,32.9
+Sincelejo,18/10/2025,21.7
+Barranquilla,18/10/2025,19.7
+Cartagena,18/10/2025,25.7
+Bucaramanga,18/10/2025,14.9
+Pereira,18/10/2025,24.5
+Cúcuta,18/10/2025,27.1
+Santa Marta,18/10/2025,23.0
+Montería,18/10/2025,20.3
+Bogotá,19/10/2025,30.3
+Medellín,19/10/2025,18.5
+Sincelejo,19/10/2025,26.5
+Barranquilla,19/10/2025,25.7
+Cartagena,19/10/2025,29.0
+Bucaramanga,19/10/2025,19.4
+Pereira,19/10/2025,23.6
+Cúcuta,19/10/2025,25.2
+Santa Marta,19/10/2025,22.1
+Montería,19/10/2025,20.1
+Bogotá,20/10/2025,24.6
+Medellín,20/10/2025,20.6
+Sincelejo,20/10/2025,19.8
+Barranquilla,20/10/2025,16.7
+Cartagena,20/10/2025,28.7
+Bucaramanga,20/10/2025,27.9
+Pereira,20/10/2025,30.3
+Cúcuta,20/10/2025,33.9
+Santa Marta,20/10/2025,22.7
+Montería,20/10/2025,15.7
+Bogotá,21/10/2025,25.7
+Medellín,21/10/2025,30.5
+Sincelejo,21/10/2025,28.5
+Barranquilla,21/10/2025,25.5
+Cartagena,21/10/2025,23.9
+Bucaramanga,21/10/2025,28.4
+Pereira,21/10/2025,21.0
+Cúcuta,21/10/2025,26.4
+Santa Marta,21/10/2025,17.8
+Montería,21/10/2025,28.9
+Bogotá,22/10/2025,21.3
+Medellín,22/10/2025,15.5
+Sincelejo,22/10/2025,17.1
+Barranquilla,22/10/2025,18.5
+Cartagena,22/10/2025,18.9
+Bucaramanga,22/10/2025,27.2
+Pereira,22/10/2025,17.9
+Cúcuta,22/10/2025,28.8
+Santa Marta,22/10/2025,25.6
+Montería,22/10/2025,19.2
+Bogotá,23/10/2025,32.6
+Medellín,23/10/2025,22.6
+Sincelejo,23/10/2025,22.1
+Barranquilla,23/10/2025,24.0
+Cartagena,23/10/2025,20.5
+Bucaramanga,23/10/2025,16.7
+Pereira,23/10/2025,23.1
+Cúcuta,23/10/2025,22.4
+Santa Marta,23/10/2025,34.2
+Montería,23/10/2025,30.7
+Bogotá,24/10/2025,20.3
+Medellín,24/10/2025,21.2
+Sincelejo,24/10/2025,18.3
+Barranquilla,24/10/2025,33.7
+Cartagena,24/10/2025,33.6
+Bucaramanga,24/10/2025,16.4
+Pereira,24/10/2025,27.7
+Cúcuta,24/10/2025,32.4
+Santa Marta,24/10/2025,32.0
+Montería,24/10/2025,31.2
+Bogotá,25/10/2025,33.2
+Medellín,25/10/2025,31.3
+Sincelejo,25/10/2025,28.0
+Barranquilla,25/10/2025,28.5
+Cartagena,25/10/2025,32.8
+Bucaramanga,25/10/2025,33.6
+Pereira,25/10/2025,19.3
+Cúcuta,25/10/2025,15.2
+Santa Marta,25/10/2025,21.6
+Montería,25/10/2025,26.9
+Bogotá,26/10/2025,17.4
+Medellín,26/10/2025,27.5
+Sincelejo,26/10/2025,31.1
+Barranquilla,26/10/2025,19.1
+Cartagena,26/10/2025,30.5
+Bucaramanga,26/10/2025,23.5
+Pereira,26/10/2025,26.4
+Cúcuta,26/10/2025,29.7
+Santa Marta,26/10/2025,27.4
+Montería,26/10/2025,29.1
+Bogotá,27/10/2025,21.0
+Medellín,27/10/2025,15.1
+Sincelejo,27/10/2025,26.3
+Barranquilla,27/10/2025,17.1
+Cartagena,27/10/2025,29.6
+Bucaramanga,27/10/2025,26.6
+Pereira,27/10/2025,18.5
+Cúcuta,27/10/2025,26.1
+Santa Marta,27/10/2025,14.9
+Montería,27/10/2025,17.8
+Bogotá,28/10/2025,25.1
+Medellín,28/10/2025,29.7
+Sincelejo,28/10/2025,31.3
+Barranquilla,28/10/2025,22.2
+Cartagena,28/10/2025,18.9
+Bucaramanga,28/10/2025,28.9
+Pereira,28/10/2025,26.0
+Cúcuta,28/10/2025,29.9
+Santa Marta,28/10/2025,22.2
+Montería,28/10/2025,32.9
+Bogotá,29/10/2025,29.5
+Medellín,29/10/2025,26.9
+Sincelejo,29/10/2025,23.3
+Barranquilla,29/10/2025,17.8
+Cartagena,29/10/2025,19.8
+Bucaramanga,29/10/2025,34.5
+Pereira,29/10/2025,29.4
+Cúcuta,29/10/2025,34.7
+Santa Marta,29/10/2025,20.6
+Montería,29/10/2025,32.4
+Bogotá,30/10/2025,31.5
+Medellín,30/10/2025,16.7
+Sincelejo,30/10/2025,31.2
+Barranquilla,30/10/2025,29.9
+Cartagena,30/10/2025,22.4
+Bucaramanga,30/10/2025,16.9
+Pereira,30/10/2025,19.1
+Cúcuta,30/10/2025,32.1
+Santa Marta,30/10/2025,29.0
+Montería,30/10/2025,21.7
+Bogotá,31/10/2025,18.5
+Medellín,31/10/2025,25.3
+Sincelejo,31/10/2025,25.0
+Barranquilla,31/10/2025,18.7
+Cartagena,31/10/2025,25.7
+Bucaramanga,31/10/2025,22.9
+Pereira,31/10/2025,25.8
+Cúcuta,31/10/2025,33.7
+Santa Marta,31/10/2025,17.5
+Montería,31/10/2025,31.9
+Bogotá,01/11/2025,21.6
+Medellín,01/11/2025,20.8
+Sincelejo,01/11/2025,20.8
+Barranquilla,01/11/2025,28.8
+Cartagena,01/11/2025,31.8
+Bucaramanga,01/11/2025,29.7
+Pereira,01/11/2025,17.8
+Cúcuta,01/11/2025,20.3
+Santa Marta,01/11/2025,21.4
+Montería,01/11/2025,18.1
+Bogotá,02/11/2025,23.8
+Medellín,02/11/2025,27.3
+Sincelejo,02/11/2025,29.1
+Barranquilla,02/11/2025,23.4
+Cartagena,02/11/2025,28.3
+Bucaramanga,02/11/2025,31.2
+Pereira,02/11/2025,15.9
+Cúcuta,02/11/2025,32.5
+Santa Marta,02/11/2025,20.7
+Montería,02/11/2025,21.1
+Bogotá,03/11/2025,34.7
+Medellín,03/11/2025,21.8
+Sincelejo,03/11/2025,16.6
+Barranquilla,03/11/2025,34.4
+Cartagena,03/11/2025,15.7
+Bucaramanga,03/11/2025,27.5
+Pereira,03/11/2025,33.1
+Cúcuta,03/11/2025,28.0
+Santa Marta,03/11/2025,27.8
+Montería,03/11/2025,27.1
+Bogotá,04/11/2025,26.6
+Medellín,04/11/2025,23.5
+Sincelejo,04/11/2025,15.5
+Barranquilla,04/11/2025,22.0
+Cartagena,04/11/2025,34.9
+Bucaramanga,04/11/2025,30.3
+Pereira,04/11/2025,25.1
+Cúcuta,04/11/2025,34.2
+Santa Marta,04/11/2025,18.3
+Montería,04/11/2025,16.8
+Bogotá,05/11/2025,25.3
+Medellín,05/11/2025,18.5
+Sincelejo,05/11/2025,15.5
+Barranquilla,05/11/2025,22.0
+Cartagena,05/11/2025,29.0
+Bucaramanga,05/11/2025,34.6
+Pereira,05/11/2025,31.4
+Cúcuta,05/11/2025,32.9
+Santa Marta,05/11/2025,26.5
+Montería,05/11/2025,31.2
+Bogotá,06/11/2025,24.1
+Medellín,06/11/2025,22.8
+Sincelejo,06/11/2025,17.0
+Barranquilla,06/11/2025,17.4
+Cartagena,06/11/2025,16.7
+Bucaramanga,06/11/2025,22.0
+Pereira,06/11/2025,18.3
+Cúcuta,06/11/2025,29.4
+Santa Marta,06/11/2025,18.7
+Montería,06/11/2025,23.1
+Bogotá,07/11/2025,16.0
+Medellín,07/11/2025,33.2
+Sincelejo,07/11/2025,25.8
+Barranquilla,07/11/2025,28.4
+Cartagena,07/11/2025,17.9
+Bucaramanga,07/11/2025,32.1
+Pereira,07/11/2025,28.3
+Cúcuta,07/11/2025,26.1
+Santa Marta,07/11/2025,15.4
+Montería,07/11/2025,23.2
+Bogotá,08/11/2025,20.4
+Medellín,08/11/2025,20.7
+Sincelejo,08/11/2025,25.1
+Barranquilla,08/11/2025,28.3
+Cartagena,08/11/2025,32.1
+Bucaramanga,08/11/2025,32.6
+Pereira,08/11/2025,29.3
+Cúcuta,08/11/2025,24.1
+Santa Marta,08/11/2025,20.1
+Montería,08/11/2025,25.4
+Bogotá,09/11/2025,33.6
+Medellín,09/11/2025,17.6
+Sincelejo,09/11/2025,17.1
+Barranquilla,09/11/2025,31.4
+Cartagena,09/11/2025,21.7
+Bucaramanga,09/11/2025,32.0
+Pereira,09/11/2025,25.0
+Cúcuta,09/11/2025,30.4
+Santa Marta,09/11/2025,16.6
+Montería,09/11/2025,17.0
+Bogotá,10/11/2025,22.9
+Medellín,10/11/2025,31.9
+Sincelejo,10/11/2025,22.9
+Barranquilla,10/11/2025,25.1
+Cartagena,10/11/2025,26.9
+Bucaramanga,10/11/2025,24.8
+Pereira,10/11/2025,18.0
+Cúcuta,10/11/2025,21.2
+Santa Marta,10/11/2025,16.6
+Montería,10/11/2025,33.2
+Bogotá,11/11/2025,32.4
+Medellín,11/11/2025,20.1
+Sincelejo,11/11/2025,24.4
+Barranquilla,11/11/2025,33.6
+Cartagena,11/11/2025,22.9
+Bucaramanga,11/11/2025,15.4
+Pereira,11/11/2025,30.9
+Cúcuta,11/11/2025,25.4
+Santa Marta,11/11/2025,23.1
+Montería,11/11/2025,29.8
+Bogotá,12/11/2025,34.4
+Medellín,12/11/2025,29.1
+Sincelejo,12/11/2025,29.8
+Barranquilla,12/11/2025,25.7
+Cartagena,12/11/2025,20.5
+Bucaramanga,12/11/2025,17.0
+Pereira,12/11/2025,22.3
+Cúcuta,12/11/2025,22.8
+Santa Marta,12/11/2025,20.9
+Montería,12/11/2025,27.2
+Bogotá,13/11/2025,24.3
+Medellín,13/11/2025,20.7
+Sincelejo,13/11/2025,21.8
+Barranquilla,13/11/2025,24.2
+Cartagena,13/11/2025,19.5
+Bucaramanga,13/11/2025,23.2
+Pereira,13/11/2025,33.5
+Cúcuta,13/11/2025,22.9
+Santa Marta,13/11/2025,23.5
+Montería,13/11/2025,33.4
+Bogotá,14/11/2025,29.1
+Medellín,14/11/2025,16.4
+Sincelejo,14/11/2025,21.7
+Barranquilla,14/11/2025,27.4
+Cartagena,14/11/2025,19.8
+Bucaramanga,14/11/2025,22.0
+Pereira,14/11/2025,16.9
+Cúcuta,14/11/2025,32.7
+Santa Marta,14/11/2025,30.8
+Montería,14/11/2025,16.1
+Bogotá,15/11/2025,28.0
+Medellín,15/11/2025,23.1
+Sincelejo,15/11/2025,18.9
+Barranquilla,15/11/2025,28.7
+Cartagena,15/11/2025,25.2
+Bucaramanga,15/11/2025,28.4
+Pereira,15/11/2025,17.4
+Cúcuta,15/11/2025,28.1
+Santa Marta,15/11/2025,24.7
+Montería,15/11/2025,24.5
+Bogotá,16/11/2025,18.3
+Medellín,16/11/2025,33.6
+Sincelejo,16/11/2025,22.4
+Barranquilla,16/11/2025,28.6
+Cartagena,16/11/2025,21.5
+Bucaramanga,16/11/2025,31.7
+Pereira,16/11/2025,30.1
+Cúcuta,16/11/2025,28.8
+Santa Marta,16/11/2025,31.0
+Montería,16/11/2025,22.9
+Bogotá,17/11/2025,19.8
+Medellín,17/11/2025,31.0
+Sincelejo,17/11/2025,18.1
+Barranquilla,17/11/2025,30.8
+Cartagena,17/11/2025,24.9
+Bucaramanga,17/11/2025,35.0
+Pereira,17/11/2025,31.1
+Cúcuta,17/11/2025,18.1
+Santa Marta,17/11/2025,34.6
+Montería,17/11/2025,19.6
+Bogotá,18/11/2025,34.6
+Medellín,18/11/2025,24.4
+Sincelejo,18/11/2025,24.1
+Barranquilla,18/11/2025,21.3
+Cartagena,18/11/2025,30.2
+Bucaramanga,18/11/2025,25.8
+Pereira,18/11/2025,27.3
+Cúcuta,18/11/2025,29.9
+Santa Marta,18/11/2025,25.6
+Montería,18/11/2025,23.9
+Bogotá,19/11/2025,33.4
+Medellín,19/11/2025,28.7
+Sincelejo,19/11/2025,27.6
+Barranquilla,19/11/2025,34.6
+Cartagena,19/11/2025,26.1
+Bucaramanga,19/11/2025,26.3
+Pereira,19/11/2025,23.4
+Cúcuta,19/11/2025,19.9
+Santa Marta,19/11/2025,33.7
+Montería,19/11/2025,32.8
+Bogotá,20/11/2025,31.0
+Medellín,20/11/2025,19.8
+Sincelejo,20/11/2025,18.0
+Barranquilla,20/11/2025,27.2
+Cartagena,20/11/2025,17.8
+Bucaramanga,20/11/2025,17.6
+Pereira,20/11/2025,32.7
+Cúcuta,20/11/2025,31.4
+Santa Marta,20/11/2025,18.2
+Montería,20/11/2025,26.2
+Bogotá,21/11/2025,24.8
+Medellín,21/11/2025,15.6
+Sincelejo,21/11/2025,25.1
+Barranquilla,21/11/2025,15.9
+Cartagena,21/11/2025,30.5
+Bucaramanga,21/11/2025,26.0
+Pereira,21/11/2025,24.6
+Cúcuta,21/11/2025,26.8
+Santa Marta,21/11/2025,28.9
+Montería,21/11/2025,15.5
+Bogotá,22/11/2025,29.5
+Medellín,22/11/2025,30.7
+Sincelejo,22/11/2025,22.7
+Barranquilla,22/11/2025,17.7
+Cartagena,22/11/2025,18.7
+Bucaramanga,22/11/2025,26.4
+Pereira,22/11/2025,16.2
+Cúcuta,22/11/2025,29.3
+Santa Marta,22/11/2025,21.6
+Montería,22/11/2025,34.9
+Bogotá,23/11/2025,20.7
+Medellín,23/11/2025,30.4
+Sincelejo,23/11/2025,31.1
+Barranquilla,23/11/2025,17.6
+Cartagena,23/11/2025,34.7
+Bucaramanga,23/11/2025,19.8
+Pereira,23/11/2025,29.0
+Cúcuta,23/11/2025,20.6
+Santa Marta,23/11/2025,29.5
+Montería,23/11/2025,25.9
+Bogotá,24/11/2025,30.2
+Medellín,24/11/2025,25.1
+Sincelejo,24/11/2025,31.7
+Barranquilla,24/11/2025,21.3
+Cartagena,24/11/2025,33.8
+Bucaramanga,24/11/2025,19.7
+Pereira,24/11/2025,33.4
+Cúcuta,24/11/2025,24.6
+Santa Marta,24/11/2025,31.7
+Montería,24/11/2025,23.5
+Bogotá,25/11/2025,24.1
+Medellín,25/11/2025,21.8
+Sincelejo,25/11/2025,19.1
+Barranquilla,25/11/2025,27.5
+Cartagena,25/11/2025,28.0
+Bucaramanga,25/11/2025,15.6
+Pereira,25/11/2025,20.3
+Cúcuta,25/11/2025,33.6
+Santa Marta,25/11/2025,33.0
+Montería,25/11/2025,17.4
+Bogotá,26/11/2025,17.3
+Medellín,26/11/2025,16.3
+Sincelejo,26/11/2025,24.4
+Barranquilla,26/11/2025,35.1
+Cartagena,26/11/2025,32.6
+Bucaramanga,26/11/2025,32.9
+Pereira,26/11/2025,29.5
+Cúcuta,26/11/2025,16.2
+Santa Marta,26/11/2025,32.4
+Montería,26/11/2025,28.7
+Bogotá,27/11/2025,18.5
+Medellín,27/11/2025,34.6
+Sincelejo,27/11/2025,23.1
+Barranquilla,27/11/2025,30.8
+Cartagena,27/11/2025,27.5
+Bucaramanga,27/11/2025,22.8
+Pereira,27/11/2025,25.3
+Cúcuta,27/11/2025,31.4
+Santa Marta,27/11/2025,19.8
+Montería,27/11/2025,32.7
+Bogotá,28/11/2025,22.3
+Medellín,28/11/2025,28.6
+Sincelejo,28/11/2025,33.0
+Barranquilla,28/11/2025,32.2
+Cartagena,28/11/2025,19.2
+Bucaramanga,28/11/2025,25.9
+Pereira,28/11/2025,26.9
+Cúcuta,28/11/2025,34.9
+Santa Marta,28/11/2025,25.1
+Montería,28/11/2025,29.3
+Bogotá,29/11/2025,23.2
+Medellín,29/11/2025,33.2
+Sincelejo,29/11/2025,30.3
+Barranquilla,29/11/2025,32.6
+Cartagena,29/11/2025,24.3
+Bucaramanga,29/11/2025,35.4
+Pereira,29/11/2025,15.9
+Cúcuta,29/11/2025,15.8
+Santa Marta,29/11/2025,18.1
+Montería,29/11/2025,21.8
+Bogotá,30/11/2025,21.9
+Medellín,30/11/2025,24.7
+Sincelejo,30/11/2025,23.9
+Barranquilla,30/11/2025,25.5
+Cartagena,30/11/2025,25.5
+Bucaramanga,30/11/2025,26.2
+Pereira,30/11/2025,31.7
+Cúcuta,30/11/2025,30.7
+Santa Marta,30/11/2025,15.8
+Montería,30/11/2025,30.3
+Bogotá,01/12/2025,19.1
+Medellín,01/12/2025,19.2
+Sincelejo,01/12/2025,24.5
+Barranquilla,01/12/2025,19.5
+Cartagena,01/12/2025,32.4
+Bucaramanga,01/12/2025,20.6
+Pereira,01/12/2025,34.9
+Cúcuta,01/12/2025,33.4
+Santa Marta,01/12/2025,18.2
+Montería,01/12/2025,19.2
+Bogotá,02/12/2025,23.7
+Medellín,02/12/2025,16.2
+Sincelejo,02/12/2025,15.5
+Barranquilla,02/12/2025,32.9
+Cartagena,02/12/2025,29.0
+Bucaramanga,02/12/2025,28.5
+Pereira,02/12/2025,34.8
+Cúcuta,02/12/2025,23.2
+Santa Marta,02/12/2025,28.2
+Montería,02/12/2025,26.7
+Bogotá,03/12/2025,33.1
+Medellín,03/12/2025,33.3
+Sincelejo,03/12/2025,17.6
+Barranquilla,03/12/2025,24.7
+Cartagena,03/12/2025,29.0
+Bucaramanga,03/12/2025,24.8
+Pereira,03/12/2025,24.2
+Cúcuta,03/12/2025,33.5
+Santa Marta,03/12/2025,19.8
+Montería,03/12/2025,19.5
+Bogotá,04/12/2025,20.5
+Medellín,04/12/2025,27.8
+Sincelejo,04/12/2025,26.1
+Barranquilla,04/12/2025,29.5
+Cartagena,04/12/2025,33.2
+Bucaramanga,04/12/2025,20.3
+Pereira,04/12/2025,34.5
+Cúcuta,04/12/2025,23.1
+Santa Marta,04/12/2025,21.8
+Montería,04/12/2025,16.0
+Bogotá,05/12/2025,19.0
+Medellín,05/12/2025,23.7
+Sincelejo,05/12/2025,29.3
+Barranquilla,05/12/2025,24.9
+Cartagena,05/12/2025,33.6
+Bucaramanga,05/12/2025,21.6
+Pereira,05/12/2025,31.5
+Cúcuta,05/12/2025,23.8
+Santa Marta,05/12/2025,21.4
+Montería,05/12/2025,29.2
+Bogotá,06/12/2025,16.4
+Medellín,06/12/2025,23.3
+Sincelejo,06/12/2025,26.0
+Barranquilla,06/12/2025,19.0
+Cartagena,06/12/2025,19.0
+Bucaramanga,06/12/2025,34.6
+Pereira,06/12/2025,24.2
+Cúcuta,06/12/2025,26.9
+Santa Marta,06/12/2025,21.3
+Montería,06/12/2025,25.6
+Bogotá,07/12/2025,20.9
+Medellín,07/12/2025,16.2
+Sincelejo,07/12/2025,35.0
+Barranquilla,07/12/2025,21.2
+Cartagena,07/12/2025,18.9
+Bucaramanga,07/12/2025,35.4
+Pereira,07/12/2025,33.9
+Cúcuta,07/12/2025,31.9
+Santa Marta,07/12/2025,18.7
+Montería,07/12/2025,22.7
+Bogotá,08/12/2025,17.5
+Medellín,08/12/2025,25.6
+Sincelejo,08/12/2025,24.1
+Barranquilla,08/12/2025,22.4
+Cartagena,08/12/2025,29.6
+Bucaramanga,08/12/2025,25.5
+Pereira,08/12/2025,18.1
+Cúcuta,08/12/2025,33.2
+Santa Marta,08/12/2025,34.3
+Montería,08/12/2025,32.5
+Bogotá,09/12/2025,23.9
+Medellín,09/12/2025,22.6
+Sincelejo,09/12/2025,20.0
+Barranquilla,09/12/2025,18.9
+Cartagena,09/12/2025,21.7
+Bucaramanga,09/12/2025,18.0
+Pereira,09/12/2025,30.2
+Cúcuta,09/12/2025,22.5
+Santa Marta,09/12/2025,20.7
+Montería,09/12/2025,19.8
+Bogotá,10/12/2025,29.9
+Medellín,10/12/2025,17.9
+Sincelejo,10/12/2025,29.5
+Barranquilla,10/12/2025,23.2
+Cartagena,10/12/2025,27.3
+Bucaramanga,10/12/2025,29.3
+Pereira,10/12/2025,15.5
+Cúcuta,10/12/2025,15.6
+Santa Marta,10/12/2025,26.4
+Montería,10/12/2025,31.4
+Bogotá,11/12/2025,23.5
+Medellín,11/12/2025,27.4
+Sincelejo,11/12/2025,30.7
+Barranquilla,11/12/2025,31.3
+Cartagena,11/12/2025,22.2
+Bucaramanga,11/12/2025,22.6
+Pereira,11/12/2025,18.8
+Cúcuta,11/12/2025,15.5
+Santa Marta,11/12/2025,27.5
+Montería,11/12/2025,30.5
+Bogotá,12/12/2025,27.6
+Medellín,12/12/2025,23.8
+Sincelejo,12/12/2025,29.9
+Barranquilla,12/12/2025,21.3
+Cartagena,12/12/2025,25.6
+Bucaramanga,12/12/2025,33.4
+Pereira,12/12/2025,33.8
+Cúcuta,12/12/2025,30.2
+Santa Marta,12/12/2025,31.9
+Montería,12/12/2025,23.7
+Bogotá,13/12/2025,21.3
+Medellín,13/12/2025,27.0
+Sincelejo,13/12/2025,15.7
+Barranquilla,13/12/2025,15.4
+Cartagena,13/12/2025,20.0
+Bucaramanga,13/12/2025,17.2
+Pereira,13/12/2025,25.7
+Cúcuta,13/12/2025,29.4
+Santa Marta,13/12/2025,18.5
+Montería,13/12/2025,34.9
+Bogotá,14/12/2025,28.2
+Medellín,14/12/2025,25.1
+Sincelejo,14/12/2025,25.3
+Barranquilla,14/12/2025,24.9
+Cartagena,14/12/2025,30.5
+Bucaramanga,14/12/2025,31.3
+Pereira,14/12/2025,29.8
+Cúcuta,14/12/2025,34.8
+Santa Marta,14/12/2025,30.1
+Montería,14/12/2025,22.9
+Bogotá,15/12/2025,28.1
+Medellín,15/12/2025,18.8
+Sincelejo,15/12/2025,18.2
+Barranquilla,15/12/2025,21.7
+Cartagena,15/12/2025,24.2
+Bucaramanga,15/12/2025,24.5
+Pereira,15/12/2025,21.9
+Cúcuta,15/12/2025,28.6
+Santa Marta,15/12/2025,20.6
+Montería,15/12/2025,33.9
+Bogotá,16/12/2025,27.1
+Medellín,16/12/2025,29.3
+Sincelejo,16/12/2025,21.6
+Barranquilla,16/12/2025,33.1
+Cartagena,16/12/2025,18.3
+Bucaramanga,16/12/2025,17.2
+Pereira,16/12/2025,27.9
+Cúcuta,16/12/2025,31.9
+Santa Marta,16/12/2025,31.5
+Montería,16/12/2025,28.1
+Bogotá,17/12/2025,17.9
+Medellín,17/12/2025,32.4
+Sincelejo,17/12/2025,26.2
+Barranquilla,17/12/2025,14.8
+Cartagena,17/12/2025,24.7
+Bucaramanga,17/12/2025,15.8
+Pereira,17/12/2025,34.9
+Cúcuta,17/12/2025,21.8
+Santa Marta,17/12/2025,16.5
+Montería,17/12/2025,22.0
+Bogotá,18/12/2025,20.1
+Medellín,18/12/2025,15.5
+Sincelejo,18/12/2025,28.1
+Barranquilla,18/12/2025,27.5
+Cartagena,18/12/2025,16.0
+Bucaramanga,18/12/2025,17.8
+Pereira,18/12/2025,18.5
+Cúcuta,18/12/2025,28.1
+Santa Marta,18/12/2025,30.7
+Montería,18/12/2025,19.9
+Bogotá,19/12/2025,33.4
+Medellín,19/12/2025,24.8
+Sincelejo,19/12/2025,17.4
+Barranquilla,19/12/2025,26.6
+Cartagena,19/12/2025,29.2
+Bucaramanga,19/12/2025,19.2
+Pereira,19/12/2025,31.9
+Cúcuta,19/12/2025,30.0
+Santa Marta,19/12/2025,16.5
+Montería,19/12/2025,30.7
+Bogotá,20/12/2025,35.1
+Medellín,20/12/2025,30.0
+Sincelejo,20/12/2025,24.1
+Barranquilla,20/12/2025,30.8
+Cartagena,20/12/2025,24.7
+Bucaramanga,20/12/2025,26.6
+Pereira,20/12/2025,25.8
+Cúcuta,20/12/2025,19.0
+Santa Marta,20/12/2025,26.4
+Montería,20/12/2025,33.2
+Bogotá,21/12/2025,23.1
+Medellín,21/12/2025,23.2
+Sincelejo,21/12/2025,34.5
+Barranquilla,21/12/2025,16.5
+Cartagena,21/12/2025,23.5
+Bucaramanga,21/12/2025,26.0
+Pereira,21/12/2025,16.4
+Cúcuta,21/12/2025,22.6
+Santa Marta,21/12/2025,16.3
+Montería,21/12/2025,22.0
+Bogotá,22/12/2025,19.5
+Medellín,22/12/2025,24.6
+Sincelejo,22/12/2025,26.0
+Barranquilla,22/12/2025,17.9
+Cartagena,22/12/2025,25.1
+Bucaramanga,22/12/2025,28.9
+Pereira,22/12/2025,31.2
+Cúcuta,22/12/2025,29.4
+Santa Marta,22/12/2025,29.9
+Montería,22/12/2025,21.4
+Bogotá,23/12/2025,18.0
+Medellín,23/12/2025,33.7
+Sincelejo,23/12/2025,31.9
+Barranquilla,23/12/2025,16.6
+Cartagena,23/12/2025,28.8
+Bucaramanga,23/12/2025,23.7
+Pereira,23/12/2025,24.9
+Cúcuta,23/12/2025,20.8
+Santa Marta,23/12/2025,30.0
+Montería,23/12/2025,29.6
+Bogotá,24/12/2025,33.1
+Medellín,24/12/2025,20.6
+Sincelejo,24/12/2025,33.4
+Barranquilla,24/12/2025,15.8
+Cartagena,24/12/2025,14.7
+Bucaramanga,24/12/2025,31.1
+Pereira,24/12/2025,30.3
+Cúcuta,24/12/2025,29.0
+Santa Marta,24/12/2025,22.4
+Montería,24/12/2025,21.8
+Bogotá,25/12/2025,22.1
+Medellín,25/12/2025,25.6
+Sincelejo,25/12/2025,29.1
+Barranquilla,25/12/2025,16.5
+Cartagena,25/12/2025,16.3
+Bucaramanga,25/12/2025,15.5
+Pereira,25/12/2025,16.8
+Cúcuta,25/12/2025,29.1
+Santa Marta,25/12/2025,32.4
+Montería,25/12/2025,35.0
+Bogotá,26/12/2025,22.1
+Medellín,26/12/2025,26.6
+Sincelejo,26/12/2025,18.2
+Barranquilla,26/12/2025,20.2
+Cartagena,26/12/2025,29.9
+Bucaramanga,26/12/2025,27.1
+Pereira,26/12/2025,21.6
+Cúcuta,26/12/2025,21.5
+Santa Marta,26/12/2025,25.9
+Montería,26/12/2025,25.6
+Bogotá,27/12/2025,24.1
+Medellín,27/12/2025,29.4
+Sincelejo,27/12/2025,18.2
+Barranquilla,27/12/2025,15.4
+Cartagena,27/12/2025,20.3
+Bucaramanga,27/12/2025,15.9
+Pereira,27/12/2025,30.7
+Cúcuta,27/12/2025,16.6
+Santa Marta,27/12/2025,19.1
+Montería,27/12/2025,27.5
+Bogotá,28/12/2025,18.2
+Medellín,28/12/2025,30.3
+Sincelejo,28/12/2025,32.1
+Barranquilla,28/12/2025,19.4
+Cartagena,28/12/2025,23.4
+Bucaramanga,28/12/2025,28.4
+Pereira,28/12/2025,26.4
+Cúcuta,28/12/2025,23.6
+Santa Marta,28/12/2025,31.8
+Montería,28/12/2025,20.4
+Bogotá,29/12/2025,26.9
+Medellín,29/12/2025,21.0
+Sincelejo,29/12/2025,18.8
+Barranquilla,29/12/2025,15.9
+Cartagena,29/12/2025,31.8
+Bucaramanga,29/12/2025,31.0
+Pereira,29/12/2025,15.6
+Cúcuta,29/12/2025,34.6
+Santa Marta,29/12/2025,27.1
+Montería,29/12/2025,20.1
+Bogotá,30/12/2025,32.6
+Medellín,30/12/2025,30.8
+Sincelejo,30/12/2025,15.7
+Barranquilla,30/12/2025,30.1
+Cartagena,30/12/2025,28.1
+Bucaramanga,30/12/2025,25.8
+Pereira,30/12/2025,17.7
+Cúcuta,30/12/2025,26.4
+Santa Marta,30/12/2025,17.0
+Montería,30/12/2025,31.2
+Bogotá,31/12/2025,25.0
+Medellín,31/12/2025,15.0
+Sincelejo,31/12/2025,28.7
+Barranquilla,31/12/2025,33.2
+Cartagena,31/12/2025,29.4
+Bucaramanga,31/12/2025,33.7
+Pereira,31/12/2025,32.1
+Cúcuta,31/12/2025,15.8
+Santa Marta,31/12/2025,23.9
+Montería,31/12/2025,25.6
