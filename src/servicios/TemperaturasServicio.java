@@ -1,3 +1,4 @@
+package servicios;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -13,16 +14,18 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class GestorTemperaturas {
+import modelos.RegistroTemperatura;
+
+public class TemperaturasServicio {
 
     private List<RegistroTemperatura> datos;
     public static final DateTimeFormatter FORMATO_FECHA = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
-    public GestorTemperaturas() {
+    public TemperaturasServicio() {
         this.datos = new ArrayList<>();
     }
 
-    public void cargarCsv(String rutaArchivo) throws IOException {
+    public int cargarCsv(String rutaArchivo) throws IOException {
         try (Stream<String> lineas = Files.lines(Paths.get(rutaArchivo), StandardCharsets.UTF_8)) {
             datos = lineas
                     .skip(1)
@@ -37,11 +40,8 @@ public class GestorTemperaturas {
                         return new RegistroTemperatura(ciudad, fecha, temp);
                     })
                     .collect(Collectors.toList());
+        return datos.size();
         }
-    }
-
-    public List<RegistroTemperatura> getDatos() {
-        return datos;
     }
 
     public Map<String, Double> promedioPorCiudad(LocalDate fechaInicial, LocalDate fechaFinal) {

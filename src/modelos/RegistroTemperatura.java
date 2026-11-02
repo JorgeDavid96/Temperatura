@@ -1,3 +1,4 @@
+package modelos;
 import java.time.LocalDate;
 
 public class RegistroTemperatura {

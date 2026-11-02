@@ -1,3 +1,4 @@
+package vistas;
 import java.time.LocalDate;
 import java.util.Map;
 import java.util.Optional;
@@ -10,7 +11,10 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
-public class FrmTemperaturas extends JFrame {
+import modelos.RegistroTemperatura;
+import controladores.TemperaturasControlador;
+
+public class TemperaturasVista extends JFrame {
 
     private JTextField txtRuta;
     private JTextField txtFechaInicial;
@@ -29,10 +33,10 @@ public class FrmTemperaturas extends JFrame {
     private JLabel lblMenosCalurosa;
     private JLabel lblCantidadDatos;
 
-    private GestorTemperaturas gestor;
+    private TemperaturasControlador controlador;
 
-    public FrmTemperaturas() {
-        gestor = new GestorTemperaturas();
+    public TemperaturasVista(TemperaturasControlador controlador) {
+        this.controlador = controlador;
 
         setTitle("Temperaturas por ciudad");
         setSize(950, 650);
@@ -124,9 +128,8 @@ public class FrmTemperaturas extends JFrame {
 
     private void cargarCsv() {
         try {
-            gestor.cargarCsv(txtRuta.getText().trim());
-            lblCantidadDatos.setText("Registros cargados: " + gestor.getDatos().size());
-            JOptionPane.showMessageDialog(this, "Archivo cargado correctamente", "Éxito", JOptionPane.INFORMATION_MESSAGE);
+            int total = controlador.cargarCsv(txtRuta.getText());
+            lblCantidadDatos.setText("Registros cargados: " + total);
         } catch (Exception error) {
             JOptionPane.showMessageDialog(this, "No se pudo cargar el archivo: " + error.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
         }
@@ -134,10 +137,10 @@ public class FrmTemperaturas extends JFrame {
 
     private void graficarPromedios() {
         try {
-            LocalDate fechaInicial = LocalDate.parse(txtFechaInicial.getText().trim(), GestorTemperaturas.FORMATO_FECHA);
-            LocalDate fechaFinal = LocalDate.parse(txtFechaFinal.getText().trim(), GestorTemperaturas.FORMATO_FECHA);
+            LocalDate fechaInicial = controlador.fecha(txtFechaInicial.getText());
+            LocalDate fechaFinal = controlador.fecha(txtFechaFinal.getText());
 
-            Map<String, Double> promedios = gestor.promedioPorCiudad(fechaInicial, fechaFinal);
+            Map<String, Double> promedios = controlador.promediosPorCiudad(fechaInicial, fechaFinal);
 
             modeloTabla.setRowCount(0);
 
@@ -158,10 +161,10 @@ public class FrmTemperaturas extends JFrame {
 
     private void consultarFecha() {
         try {
-            LocalDate fecha = LocalDate.parse(txtFechaConsulta.getText().trim(), GestorTemperaturas.FORMATO_FECHA);
+            LocalDate fecha = controlador.fecha(txtFechaConsulta.getText());
 
-            Optional<RegistroTemperatura> mayor = gestor.ciudadMasCalurosa(fecha);
-            Optional<RegistroTemperatura> menor = gestor.ciudadMenosCalurosa(fecha);
+            Optional<RegistroTemperatura> mayor = controlador.ciudadMasCalurosa(fecha);
+            Optional<RegistroTemperatura> menor = controlador.ciudadMenosCalurosa(fecha);
 
             if (mayor.isPresent() && menor.isPresent()) {
                 lblMasCalurosa.setText("Más calurosa: " + mayor.get().getCiudad() + " - " + mayor.get().getTemperatura() + " °C");
