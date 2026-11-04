@@ -2,6 +2,7 @@ package controladores;
 
 import java.io.IOException;
 import java.time.LocalDate;
+import java.util.Calendar;
 import java.util.Map;
 import java.util.Optional;
 
@@ -19,8 +20,15 @@ public class TemperaturasControlador {
         return servicio.cargarCsv(ruta.trim());
     }
 
-    public LocalDate fecha(String texto) {
-        return LocalDate.parse(texto.trim(), TemperaturasServicio.FORMATO_FECHA);
+    /** Convierte la fecha del DateChooser (Calendar) a LocalDate. */
+    public LocalDate fecha(Calendar calendario) {
+        if (calendario == null) {
+            throw new IllegalArgumentException("Debe seleccionar una fecha");
+        }
+        return LocalDate.of(
+                calendario.get(Calendar.YEAR),
+                calendario.get(Calendar.MONTH) + 1,
+                calendario.get(Calendar.DAY_OF_MONTH));
     }
 
     public Map<String, Double> promediosPorCiudad(LocalDate inicial, LocalDate fin) {

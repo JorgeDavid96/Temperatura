@@ -3,6 +3,7 @@
 
 # Archivos empaquetados
 *.jar
+!lib/*.jar
 *.war
 *.ear
 *.zip

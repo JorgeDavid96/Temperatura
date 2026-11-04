@@ -1,80 +1,83 @@
 package vistas;
+
+import java.awt.BorderLayout;
 import java.awt.Color;
-import java.awt.FontMetrics;
-import java.awt.Graphics;
-import java.util.LinkedHashMap;
+import java.awt.Font;
+import java.text.DecimalFormat;
 import java.util.Map;
 import javax.swing.JPanel;
 
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartPanel;
+import org.jfree.chart.JFreeChart;
+import org.jfree.chart.labels.StandardCategoryItemLabelGenerator;
+import org.jfree.chart.plot.CategoryPlot;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.axis.CategoryAxis;
+import org.jfree.chart.axis.ValueAxis;
+import org.jfree.chart.title.TextTitle;
+import org.jfree.chart.renderer.category.BarRenderer;
+import org.jfree.chart.renderer.category.StandardBarPainter;
+import org.jfree.data.category.DefaultCategoryDataset;
+
 public class PanelGrafica extends JPanel {
 
-    private Map<String, Double> datosGrafica;
+    private static final String SERIE = "Temperatura promedio";
+    private static final String TITULO = "Promedio de temperatura por ciudad";
+    private static final Font FUENTE_TITULO = new Font("SansSerif", Font.BOLD, 14);
+
+    private final DefaultCategoryDataset dataset;
+    private final JFreeChart grafica;
 
     public PanelGrafica() {
-        datosGrafica = new LinkedHashMap<String, Double>();
-        setBackground(Color.WHITE);
+        setLayout(new BorderLayout());
+
+        dataset = new DefaultCategoryDataset();
+
+        grafica = ChartFactory.createBarChart(
+                TITULO,                               // título
+                "Ciudad",                             // eje X
+                "Temperatura (°C)",                   // eje Y
+                dataset,
+                PlotOrientation.VERTICAL,
+                false,  // leyenda
+                true,   // tooltips
+                false); // urls
+
+        CategoryPlot plot = grafica.getCategoryPlot();
+        plot.setBackgroundPaint(Color.WHITE);
+        plot.setRangeGridlinePaint(Color.LIGHT_GRAY);
+        plot.setNoDataMessage("No hay datos para graficar");
+
+        // Que no se corten los nombres de ciudad y quede espacio para la etiqueta del valor
+        CategoryAxis ejeX = plot.getDomainAxis();
+        ejeX.setMaximumCategoryLabelWidthRatio(1.0f);
+        ValueAxis ejeY = plot.getRangeAxis();
+        ejeY.setUpperMargin(0.12);
+
+        grafica.setTitle(new TextTitle(TITULO, FUENTE_TITULO));
+
+        BarRenderer barras = (BarRenderer) plot.getRenderer();
+        barras.setBarPainter(new StandardBarPainter()); // barras planas, sin degradado
+        barras.setSeriesPaint(0, new Color(80, 130, 190));
+        barras.setDrawBarOutline(true);
+        barras.setSeriesOutlinePaint(0, Color.BLACK);
+        barras.setDefaultItemLabelGenerator(
+                new StandardCategoryItemLabelGenerator("{2}", new DecimalFormat("0.0")));
+        barras.setDefaultItemLabelsVisible(true);
+
+        add(new ChartPanel(grafica), BorderLayout.CENTER);
     }
 
-    public void setDatosGrafica(Map<String, Double> datosGrafica) {
-        this.datosGrafica = datosGrafica;
-        repaint();
+    /** Recibe ciudad -> promedio y redibuja la gráfica. */
+    public void setDatosGrafica(Map<String, Double> datos) {
+        dataset.clear();
+        if (datos != null) {
+            datos.forEach((ciudad, promedio) -> dataset.addValue(promedio, SERIE, ciudad));
+        }
     }
 
-    protected void paintComponent(Graphics g) {
-        super.paintComponent(g);
-
-        if (datosGrafica == null || datosGrafica.isEmpty()) {
-            g.drawString("No hay datos para graficar", 20, 30);
-            return;
-        }
-
-        int ancho = getWidth();
-        int alto = getHeight();
-        int margenIzquierdo = 55;
-        int margenInferior = 65;
-        int margenSuperior = 30;
-        int espacioGrafica = alto - margenSuperior - margenInferior;
-
-        g.setColor(Color.BLACK);
-        g.drawLine(margenIzquierdo, alto - margenInferior, ancho - 20, alto - margenInferior);
-        g.drawLine(margenIzquierdo, margenSuperior, margenIzquierdo, alto - margenInferior);
-
-        double maximo = datosGrafica.values().stream()
-                .mapToDouble(valor -> valor)
-                .max()
-                .orElse(1);
-
-        int cantidad = datosGrafica.size();
-        int anchoDisponible = ancho - margenIzquierdo - 35;
-        int anchoBarra = Math.max(20, anchoDisponible / (cantidad * 2));
-        int separacion = anchoBarra;
-        int x = margenIzquierdo + 20;
-
-        FontMetrics medidas = g.getFontMetrics();
-
-        for (Map.Entry<String, Double> entrada : datosGrafica.entrySet()) {
-
-            int alturaBarra = (int) ((entrada.getValue() / maximo) * espacioGrafica);
-            int y = alto - margenInferior - alturaBarra;
-
-            g.setColor(new Color(80, 130, 190));
-            g.fillRect(x, y, anchoBarra, alturaBarra);
-
-            g.setColor(Color.BLACK);
-            g.drawRect(x, y, anchoBarra, alturaBarra);
-
-            String temperatura = String.format("%.1f", entrada.getValue());
-            int textoTemp = medidas.stringWidth(temperatura);
-            g.drawString(temperatura, x + (anchoBarra - textoTemp) / 2, y - 5);
-
-            String ciudad = entrada.getKey();
-            int textoCiudad = medidas.stringWidth(ciudad);
-            g.drawString(ciudad, x + (anchoBarra - textoCiudad) / 2, alto - margenInferior + 18);
-
-            x = x + anchoBarra + separacion;
-        }
-
-        g.drawString("Promedio de temperatura por ciudad", 20, 20);
-        g.drawString("Temperatura", 5, 40);
+    public void setTitulo(String titulo) {
+        grafica.setTitle(new TextTitle(titulo, FUENTE_TITULO));
     }
 }

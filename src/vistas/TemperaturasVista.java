@@ -1,5 +1,9 @@
 package vistas;
+import java.text.SimpleDateFormat;
 import java.time.LocalDate;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+import java.util.Locale;
 import java.util.Map;
 import java.util.Optional;
 import javax.swing.JButton;
@@ -11,15 +15,18 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
+import datechooser.beans.DateChooserCombo;
+
 import modelos.RegistroTemperatura;
 import controladores.TemperaturasControlador;
+import servicios.TemperaturasServicio;
 
 public class TemperaturasVista extends JFrame {
 
     private JTextField txtRuta;
-    private JTextField txtFechaInicial;
-    private JTextField txtFechaFinal;
-    private JTextField txtFechaConsulta;
+    private DateChooserCombo dcFechaInicial;
+    private DateChooserCombo dcFechaFinal;
+    private DateChooserCombo dcFechaConsulta;
 
     private JButton btnCargar;
     private JButton btnGraficar;
@@ -52,7 +59,7 @@ public class TemperaturasVista extends JFrame {
         lblRuta.setBounds(20, 45, 100, 25);
         add(lblRuta);
 
-        txtRuta = new JTextField("src/datos/temperaturas.csv");
+        txtRuta = new JTextField("src/datos/Temperaturas.csv");
         txtRuta.setBounds(115, 45, 260, 25);
         add(txtRuta);
 
@@ -68,17 +75,15 @@ public class TemperaturasVista extends JFrame {
         lblFechaInicial.setBounds(20, 90, 100, 25);
         add(lblFechaInicial);
 
-        txtFechaInicial = new JTextField("01/01/2025");
-        txtFechaInicial.setBounds(115, 90, 120, 25);
-        add(txtFechaInicial);
+        dcFechaInicial = crearSelectorFecha(115, 90, 120, LocalDate.of(2024, 1, 1));
+        add(dcFechaInicial);
 
         JLabel lblFechaFinal = new JLabel("Fecha final:");
         lblFechaFinal.setBounds(255, 90, 100, 25);
         add(lblFechaFinal);
 
-        txtFechaFinal = new JTextField("31/01/2025");
-        txtFechaFinal.setBounds(340, 90, 120, 25);
-        add(txtFechaFinal);
+        dcFechaFinal = crearSelectorFecha(340, 90, 120, LocalDate.of(2024, 1, 10));
+        add(dcFechaFinal);
 
         btnGraficar = new JButton("Graficar promedios");
         btnGraficar.setBounds(480, 90, 170, 25);
@@ -88,9 +93,8 @@ public class TemperaturasVista extends JFrame {
         lblFechaConsulta.setBounds(20, 135, 130, 25);
         add(lblFechaConsulta);
 
-        txtFechaConsulta = new JTextField("01/01/2025");
-        txtFechaConsulta.setBounds(145, 135, 120, 25);
-        add(txtFechaConsulta);
+        dcFechaConsulta = crearSelectorFecha(145, 135, 120, LocalDate.of(2024, 1, 1));
+        add(dcFechaConsulta);
 
         btnConsultar = new JButton("Ciudad mayor y menor");
         btnConsultar.setBounds(285, 135, 190, 25);
@@ -117,13 +121,24 @@ public class TemperaturasVista extends JFrame {
         panelGrafica.setBounds(340, 200, 570, 360);
         add(panelGrafica);
 
-        JLabel lblAyuda = new JLabel("Formato de fecha: dd/MM/yyyy. Ejemplo: 01/01/2025");
+        JLabel lblAyuda = new JLabel("Seleccione las fechas con el calendario (dd/MM/yyyy).");
         lblAyuda.setBounds(20, 570, 500, 25);
         add(lblAyuda);
 
         btnCargar.addActionListener(e -> cargarCsv());
         btnGraficar.addActionListener(e -> graficarPromedios());
         btnConsultar.addActionListener(e -> consultarFecha());
+    }
+
+    private DateChooserCombo crearSelectorFecha(int x, int y, int ancho, LocalDate inicial) {
+        DateChooserCombo selector = new DateChooserCombo();
+        selector.setLocale(Locale.forLanguageTag("es-CO"));
+        selector.setDateFormat(new SimpleDateFormat("dd/MM/yyyy"));
+        selector.setNothingAllowed(false);
+        selector.setSelectedDate(new GregorianCalendar(
+                inicial.getYear(), inicial.getMonthValue() - 1, inicial.getDayOfMonth()));
+        selector.setBounds(x, y, ancho, 25);
+        return selector;
     }
 
     private void cargarCsv() {
@@ -137,8 +152,13 @@ public class TemperaturasVista extends JFrame {
 
     private void graficarPromedios() {
         try {
-            LocalDate fechaInicial = controlador.fecha(txtFechaInicial.getText());
-            LocalDate fechaFinal = controlador.fecha(txtFechaFinal.getText());
+            LocalDate fechaInicial = controlador.fecha(dcFechaInicial.getSelectedDate());
+            LocalDate fechaFinal = controlador.fecha(dcFechaFinal.getSelectedDate());
+
+            if (fechaInicial.isAfter(fechaFinal)) {
+                JOptionPane.showMessageDialog(this, "La fecha inicial no puede ser posterior a la final", "Aviso", JOptionPane.WARNING_MESSAGE);
+                return;
+            }
 
             Map<String, Double> promedios = controlador.promediosPorCiudad(fechaInicial, fechaFinal);
 
@@ -148,6 +168,9 @@ public class TemperaturasVista extends JFrame {
                 modeloTabla.addRow(new Object[]{ciudad, String.format("%.2f", promedio)})
             );
 
+            panelGrafica.setTitulo("Promedio de temperatura por ciudad ("
+                    + fechaInicial.format(TemperaturasServicio.FORMATO_FECHA) + " - "
+                    + fechaFinal.format(TemperaturasServicio.FORMATO_FECHA) + ")");
             panelGrafica.setDatosGrafica(promedios);
 
             if (promedios.isEmpty()) {
@@ -161,7 +184,7 @@ public class TemperaturasVista extends JFrame {
 
     private void consultarFecha() {
         try {
-            LocalDate fecha = controlador.fecha(txtFechaConsulta.getText());
+            LocalDate fecha = controlador.fecha(dcFechaConsulta.getSelectedDate());
 
             Optional<RegistroTemperatura> mayor = controlador.ciudadMasCalurosa(fecha);
             Optional<RegistroTemperatura> menor = controlador.ciudadMenosCalurosa(fecha);
